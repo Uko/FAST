@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Visualization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"view" ],
+	"name" : "FASTVisualizator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
