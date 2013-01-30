@@ -1,3 +1,3 @@
 accessing
 name
-	^ 'message'
+	^ self selector
