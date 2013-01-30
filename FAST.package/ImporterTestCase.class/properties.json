@@ -6,7 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"model" ],
+		"model",
+		"sendMessageMethod",
+		"returnMethod",
+		"middleMethod",
+		"spaceshipMethod" ],
 	"name" : "ImporterTestCase",
 	"pools" : [
 		 ],

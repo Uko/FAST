@@ -1,3 +1,3 @@
 as yet unclassified
 testBinaryMethodParameters
-	self assert: binaryMethod parameters size = 1.
+	self assert: spaceshipMethod parameters size = 1.
