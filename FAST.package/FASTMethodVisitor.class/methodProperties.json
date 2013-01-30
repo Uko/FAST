@@ -3,8 +3,10 @@
 		 },
 	"instance" : {
 		"acceptBlockNode:" : "YuriyTymchuk 1/22/2013 13:05",
-		"acceptMethodNode:" : "YuriyTymchuk 1/21/2013 15:55",
+		"acceptMethodNode:" : "YuriyTymchuk 1/22/2013 15:05",
+		"acceptReturnNode:" : "YuriyTymchuk 1/22/2013 15:13",
 		"acceptSequenceNode:" : "YuriyTymchuk 1/21/2013 17:12",
+		"acceptVariableNode:" : "YuriyTymchuk 1/22/2013 14:59",
 		"initializeWithClass:famixMethod:fastMethod:methodScope:" : "YuriyTymchuk 1/22/2013 13:01",
 		"runWith:and:" : "YuriyTymchuk 1/22/2013 11:22",
 		"visitStatementNode:" : "YuriyTymchuk 1/21/2013 17:14" } }
