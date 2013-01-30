@@ -2,6 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
+		"testAsStringMessageParametersCount" : "YuriyTymchuk 1/23/2013 17:23",
+		"testAsStringMessageRecepientSelector" : "YuriyTymchuk 1/23/2013 17:14",
+		"testAsStringMessageRecepientType" : "YuriyTymchuk 1/23/2013 17:07",
+		"testAsStringMessageRecepientVariableName" : "YuriyTymchuk 1/23/2013 17:13",
 		"testCascadeChildrenBeingCascaded" : "YuriyTymchuk 1/23/2013 16:35",
 		"testCascadeChildrenCount" : "YuriyTymchuk 1/23/2013 16:23",
 		"testCascadeChildrenDereference" : "YuriyTymchuk 1/23/2013 16:41",
@@ -10,6 +14,7 @@
 		"testCascadeRecepientVeriableName" : "YuriyTymchuk 1/23/2013 16:23",
 		"testExpressionType" : "YuriyTymchuk 1/23/2013 13:32",
 		"testFirstMessageBeingFirsCascaded" : "YuriyTymchuk 1/23/2013 16:32",
+		"testFirstMessageParameterType" : "YuriyTymchuk 1/23/2013 17:03",
 		"testFirstMessageParametersCount" : "YuriyTymchuk 1/23/2013 16:23",
 		"testFirstMessageRecepientType" : "YuriyTymchuk 1/23/2013 16:23",
 		"testFirstMessageRecepientVariableName" : "YuriyTymchuk 1/23/2013 16:31",
@@ -18,6 +23,8 @@
 		"testFourthMessageSelector" : "YuriyTymchuk 1/23/2013 16:23",
 		"testNonFirstMessageRecepient" : "YuriyTymchuk 1/23/2013 16:30",
 		"testNonFirstMessagesBeingFirstCascaded" : "YuriyTymchuk 1/23/2013 16:36",
+		"testSecondMessageParameterType" : "YuriyTymchuk 1/23/2013 17:31",
+		"testSecondMessageParameterVariableName" : "YuriyTymchuk 1/23/2013 17:27",
 		"testSecondMessageParametersCount" : "YuriyTymchuk 1/23/2013 16:23",
 		"testSecondMessageSelector" : "YuriyTymchuk 1/23/2013 16:23",
 		"testStatementType" : "YuriyTymchuk 1/23/2013 13:34",
