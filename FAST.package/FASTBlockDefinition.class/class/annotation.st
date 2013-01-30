@@ -1,4 +1,4 @@
 as yet unclassified
 annotation
 	<MSEClass: #BlockDefinition super: #FASTBehaviouralEntity>
-	<package: #AST>
+	<package: #FAST>

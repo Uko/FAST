@@ -1,4 +1,4 @@
 as yet unclassified
 annotation
 	<MSEClass: #BehavioralEntity super: #FAMIXSourcedEntity>
-	<package: #AST>
+	<package: #FAST>
