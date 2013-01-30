@@ -1,9 +1,3 @@
 addingNodes
 addBlockLiteral: aFastBlockLiteral
-	| blockLiteralNode |
-	blockLiteralNode := self addRONodeFrom: aFastBlockLiteral.
-	
-	
-	^ blockLiteralNode
-	
-	
+	^ self addBlock: aFastBlockLiteral block
