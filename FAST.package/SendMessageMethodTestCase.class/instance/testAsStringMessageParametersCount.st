@@ -1,0 +1,3 @@
+tests
+testAsStringMessageParametersCount
+	self assert: sendMessageMethod statements first expression parameters first parameters isEmpty

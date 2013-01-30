@@ -1,3 +1,3 @@
 as yet unclassified
 sendMessage
-	self return: self
+	self return: super asString

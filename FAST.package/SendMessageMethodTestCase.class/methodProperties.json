@@ -2,5 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
+		"testAsStringMessageParametersCount" : "YuriyTymchuk 1/22/2013 17:27",
+		"testAsStringMessageRecepientType" : "YuriyTymchuk 1/22/2013 17:27",
+		"testAsStringMessageRecepientVariableName" : "YuriyTymchuk 1/22/2013 17:27",
+		"testAsStringMessageSelector" : "YuriyTymchuk 1/22/2013 17:27",
+		"testRetunMessageParameterType" : "YuriyTymchuk 1/22/2013 17:21",
+		"testRetunMessageParametersCount" : "YuriyTymchuk 1/22/2013 17:18",
+		"testRetunMessageRecepientType" : "YuriyTymchuk 1/22/2013 17:01",
+		"testRetunMessageRecepientVariableName" : "YuriyTymchuk 1/22/2013 17:03",
+		"testRetunMessageSelector" : "YuriyTymchuk 1/22/2013 17:00",
+		"testRetunMessageType" : "YuriyTymchuk 1/22/2013 16:55",
 		"testStatementType" : "YuriyTymchuk 1/22/2013 14:34",
 		"testStatementsCount" : "YuriyTymchuk 1/22/2013 14:25" } }
