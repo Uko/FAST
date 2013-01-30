@@ -1,3 +1,3 @@
 as yet unclassified
 messages: aMessage
-	messages addAll: aMessage
+	messages value: aMessage

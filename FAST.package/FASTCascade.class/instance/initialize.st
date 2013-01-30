@@ -1,4 +1,4 @@
 as yet unclassified
 initialize
 	super initialize.
-	messages := OrderedCollection new.
+	messages := FMMultivalueLink on: self opposite: #cascade:

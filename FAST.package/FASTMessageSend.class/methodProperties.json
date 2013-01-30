@@ -3,9 +3,13 @@
 		"annotation" : "YuriyTymchuk 1/14/2013 16:21" },
 	"instance" : {
 		"accept:" : "YuriyTymchuk 11/24/2012 18:56",
+		"cascade" : "YuriyTymchuk 1/23/2013 16:03",
+		"cascade:" : "YuriyTymchuk 1/23/2013 16:06",
 		"do:" : "YuriyTymchuk 12/8/2012 18:14",
 		"initialize" : "YuriyTymchuk 11/24/2012 20:56",
 		"isBinary" : "YuriyTymchuk 10/30/2012 18:42",
+		"isCascaded" : "YuriyTymchuk 1/23/2013 16:09",
+		"isFirstCascaded" : "YuriyTymchuk 1/23/2013 16:12",
 		"isKeyword" : "YuriyTymchuk 10/30/2012 18:43",
 		"isUnary" : "YuriyTymchuk 10/30/2012 16:49",
 		"kind" : "YuriyTymchuk 10/30/2012 16:53",

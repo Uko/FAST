@@ -9,7 +9,8 @@
 		"kind",
 		"selector",
 		"recepient",
-		"parameters" ],
+		"parameters",
+		"cascade" ],
 	"name" : "FASTMessageSend",
 	"pools" : [
 		 ],
