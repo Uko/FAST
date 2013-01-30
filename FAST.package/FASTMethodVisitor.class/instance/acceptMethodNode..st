@@ -5,6 +5,6 @@ aMethodNode arguments
   	do: 
  		[:aVariableNode | | fastParameter |   					
  			fastParameter := importer addEntity: FASTVariable new. 
- 			fastParameter name: aMethodNode name.
+ 			fastParameter name: aVariableNode name.
  			fastMethod parameters add: fastParameter]. 
   	super acceptMethodNode: aMethodNode 

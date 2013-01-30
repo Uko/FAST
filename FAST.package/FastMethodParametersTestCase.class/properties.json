@@ -1,0 +1,16 @@
+{
+	"category" : "FAST-Test-Importer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"binaryMethod",
+		"keywordMethod1Param",
+		"keywordMethod2Params" ],
+	"name" : "FastMethodParametersTestCase",
+	"pools" : [
+		 ],
+	"super" : "FastMethodTestCase",
+	"type" : "normal" }
