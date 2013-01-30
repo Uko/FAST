@@ -1,3 +1,3 @@
 as yet unclassified
-on: aFastMethod
-	(self new) addMethod: aFastMethod; showView.
+on: aFastNode
+	(self new) addGenericNode: aFastNode; showView

@@ -1,19 +1,12 @@
-as yet unclassified
+addingNodes
 addMethod: aFastMethodNode
-	| methodNode statementNodes |
-	methodNode := ROLabel elementOn: aFastMethodNode name.
-	view add: methodNode.
+	| methodNode |
+	methodNode := self addRONodeFrom: aFastMethodNode.
 	
-	statementNodes := aFastMethodNode statements collect: [ :statement | self addStatement: statement ].
-	
-	statementNodes do: [ :statement |
-		| edge |
-			edge := ROEdge from: methodNode to: statement.
-			edge + ROLine red.
-			view add: statement; add: edge ].
-	
-	statementNodes add: methodNode.
-	
-	ROTreeLayout on: statementNodes.
+	aFastMethodNode statements do: [ :statement |
+		| edge statementNode |
+			statementNode := self addStatement: statement.
+			edge := ROEdge lineFrom: methodNode to: statementNode.
+			view add: edge ].
 	
 	^ methodNode

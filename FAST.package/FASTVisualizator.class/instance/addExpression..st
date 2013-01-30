@@ -1,3 +1,3 @@
-as yet unclassified
+addingNodes
 addExpression: aFastExpression
-	^ ROLabel elementOn: aFastExpression name
+	^ self addGenericNode: aFastExpression

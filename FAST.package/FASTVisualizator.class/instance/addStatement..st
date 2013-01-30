@@ -1,16 +1,12 @@
-as yet unclassified
+addingNodes
 addStatement: aFastStatementNode
 	| statementNode edge expressionNode |
-	statementNode := ROLabel elementOn: aFastStatementNode name.
-	view add: statementNode.
+	statementNode := self addRONodeFrom: aFastStatementNode.
 	
 	expressionNode := self addExpression: aFastStatementNode expression.
 	
-	edge := ROEdge from: statementNode to: expressionNode.
-	edge + ROLine red.
+	edge := ROEdge lineFrom: statementNode to: expressionNode.
 	
 	view add: edge; add: expressionNode.
-	
-	ROTreeLayout on: (Array with: statementNode with: expressionNode).
 	
 	^ statementNode

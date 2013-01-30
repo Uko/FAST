@@ -1,3 +1,3 @@
 accessing
 name
-	^ self selector
+	^ self selector asString
