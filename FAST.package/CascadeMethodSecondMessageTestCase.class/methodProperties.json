@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "YuriyTymchuk 1/24/2013 10:25",
+		"testSecondMessageIsBinary" : "YuriyTymchuk 1/24/2013 10:25",
+		"testSecondMessageIsKeyword" : "YuriyTymchuk 1/24/2013 10:26",
+		"testSecondMessageIsUnary" : "YuriyTymchuk 1/24/2013 10:26",
+		"testSecondMessageKind" : "YuriyTymchuk 1/24/2013 10:27",
+		"testSecondMessageParameterType" : "YuriyTymchuk 1/24/2013 10:25",
+		"testSecondMessageParameterVariableName" : "YuriyTymchuk 1/24/2013 10:25",
+		"testSecondMessageParametersCount" : "YuriyTymchuk 1/24/2013 10:26" } }

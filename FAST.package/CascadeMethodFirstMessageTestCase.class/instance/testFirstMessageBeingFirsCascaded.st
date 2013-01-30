@@ -1,0 +1,3 @@
+tests
+testFirstMessageBeingFirsCascaded
+	self assert: message isFirstCascaded

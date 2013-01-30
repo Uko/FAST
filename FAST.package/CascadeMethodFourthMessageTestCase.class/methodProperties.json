@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "YuriyTymchuk 1/24/2013 10:30",
+		"testFourthMessageIsBinary" : "YuriyTymchuk 1/24/2013 10:30",
+		"testFourthMessageIsKeyword" : "YuriyTymchuk 1/24/2013 10:31",
+		"testFourthMessageIsUnary" : "YuriyTymchuk 1/24/2013 10:31",
+		"testFourthMessageKind" : "YuriyTymchuk 1/24/2013 10:31",
+		"testFourthMessageParametersCount" : "YuriyTymchuk 1/24/2013 10:08",
+		"testFourthMessageSelector" : "YuriyTymchuk 1/24/2013 10:08" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Test-Importer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"message" ],
+	"name" : "CascadeMethodFourthMessageTestCase",
+	"pools" : [
+		 ],
+	"super" : "CascadeMethodTestCase",
+	"type" : "normal" }

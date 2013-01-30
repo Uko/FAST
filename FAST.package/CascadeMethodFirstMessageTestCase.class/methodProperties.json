@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "YuriyTymchuk 1/24/2013 10:09",
+		"testFirstMessageBeingFirsCascaded" : "YuriyTymchuk 1/24/2013 10:09",
+		"testFirstMessageIsBinary" : "YuriyTymchuk 1/24/2013 10:11",
+		"testFirstMessageIsKeyword" : "YuriyTymchuk 1/24/2013 10:13",
+		"testFirstMessageIsUnary" : "YuriyTymchuk 1/24/2013 10:12",
+		"testFirstMessageKind" : "YuriyTymchuk 1/24/2013 10:11",
+		"testFirstMessageParameterType" : "YuriyTymchuk 1/24/2013 10:09",
+		"testFirstMessageParametersCount" : "YuriyTymchuk 1/24/2013 10:09",
+		"testFirstMessageRecepientType" : "YuriyTymchuk 1/24/2013 10:09",
+		"testFirstMessageRecepientVariableName" : "YuriyTymchuk 1/24/2013 10:10",
+		"testFirstMessageSelector" : "YuriyTymchuk 1/24/2013 10:10" } }
