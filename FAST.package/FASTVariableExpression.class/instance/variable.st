@@ -1,5 +1,5 @@
 accessing
 variable
-	<MSEProperty: #variable type: #FASTVariable>
+	<MSEProperty: #variable type: #FASTNamedEntity>
 	<MSEComment: 'Variable relatad to this expression'>
 	^ variable

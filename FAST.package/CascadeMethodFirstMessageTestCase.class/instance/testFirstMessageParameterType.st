@@ -1,3 +1,3 @@
 tests
 testFirstMessageParameterType
-	self assert: (message parameters first isMemberOf: FASTMessageSend)
+	self assert: (message arguments first isMemberOf: FASTMessageSend)

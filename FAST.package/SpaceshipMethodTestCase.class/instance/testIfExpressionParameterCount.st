@@ -1,3 +1,3 @@
 tests
 testIfExpressionParameterCount
-	self assert: spaceshipMethod statements first expression parameters size = 2
+	self assert: spaceshipMethod statements first expression arguments size = 2

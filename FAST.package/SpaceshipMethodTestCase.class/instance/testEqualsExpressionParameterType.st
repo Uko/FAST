@@ -1,3 +1,3 @@
 tests
 testEqualsExpressionParameterType
-	self assert: (spaceshipMethod statements first expression recepient parameters first isMemberOf: FASTVariableExpression)
+	self assert: (spaceshipMethod statements first expression receiver arguments first isMemberOf: FASTVariableExpression)

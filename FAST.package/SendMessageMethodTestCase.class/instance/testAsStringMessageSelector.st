@@ -1,3 +1,3 @@
 tests
 testAsStringMessageSelector
-	self assert: sendMessageMethod statements first expression parameters first selector = 'asString'
+	self assert: sendMessageMethod statements first expression arguments first selector = 'asString'

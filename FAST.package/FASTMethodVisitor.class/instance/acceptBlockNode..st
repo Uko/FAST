@@ -5,7 +5,7 @@ acceptBlockNode: aBlockNode
  	blockDefinition := importer addEntity: FASTBlockDefinition new. 
 	[aBlockNode arguments 
 		do: [:aVariableNode | | fastParameter |
- 			fastParameter := importer addEntity: FASTVariable new.
+ 			fastParameter := importer addEntity: FASTNamedEntity new.
 			fastParameter name: aVariableNode name.
  			blockDefinition parameters add: fastParameter]]. 
  	

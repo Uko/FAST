@@ -6,8 +6,8 @@ acceptMessageNode: aMessageNode
  	importer addEntity: message.
  	
   	(aMessageNode isCascaded not or: [aMessageNode isFirstCascaded]) 
- 		ifTrue: [message recepient: (self visitNode: aMessageNode receiver)].  
- 	aMessageNode arguments do: [:each | message parameters add: (self visitNode: each)].
+ 		ifTrue: [message receiver: (self visitNode: aMessageNode receiver)].  
+ 	aMessageNode arguments do: [:each | message arguments add: (self visitNode: each)].
 	
 	message kind: (
 		aMessageNode isUnary

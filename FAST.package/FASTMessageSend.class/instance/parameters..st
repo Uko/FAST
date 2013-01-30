@@ -1,3 +1,3 @@
 accessing
-parameters: aParameter
-	parameters addAll: aParameter
+parameters: anArgument
+	arguments addAll: anArgument

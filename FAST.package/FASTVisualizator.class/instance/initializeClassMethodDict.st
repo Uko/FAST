@@ -11,4 +11,4 @@ initializeClassMethodDict
 		add: FASTBlockDefinition			-> #addBlock:;
 		add: FASTExpressionStatement		-> #addStatenent:;
 		add: FASTReturnStatement			-> #addStatement:;
-		add: FASTVariable					-> #addVariable:
+		add: FASTNamedEntity				-> #addNamedEntity:

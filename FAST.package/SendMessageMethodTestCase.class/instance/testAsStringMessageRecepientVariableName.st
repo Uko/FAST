@@ -1,3 +1,3 @@
 tests
 testAsStringMessageRecepientVariableName
-	self assert: sendMessageMethod statements first expression parameters first recepient variable name = 'super'
+	self assert: sendMessageMethod statements first expression arguments first receiver variable name = 'super'

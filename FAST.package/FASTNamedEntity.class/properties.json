@@ -8,7 +8,7 @@
 	"instvars" : [
 		"name",
 		"famixVariable" ],
-	"name" : "FASTVariable",
+	"name" : "FASTNamedEntity",
 	"pools" : [
 		 ],
 	"super" : "FAMIXSourcedEntity",

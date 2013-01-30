@@ -1,4 +1,4 @@
-initialization
+visitor-double dispatching
 acceptLiteralNode: literalNode
   	| literal |
  	literal := importer addEntity: FASTLiteral new.

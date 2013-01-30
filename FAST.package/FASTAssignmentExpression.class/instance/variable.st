@@ -1,5 +1,5 @@
 as yet unclassified
 variable
-	<MSEProperty: #variable type: #FASTVariable>
+	<MSEProperty: #variable type: #FASTNamedEntity>
 	<MSEComment: 'An assignee variable'>
 	^variable

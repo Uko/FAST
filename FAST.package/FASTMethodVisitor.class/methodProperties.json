@@ -2,15 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
-		"acceptAssignmentNode:" : "YuriyTymchuk 1/22/2013 17:49",
-		"acceptBlockNode:" : "YuriyTymchuk 1/23/2013 10:59",
+		"acceptAssignmentNode:" : "YuriyTymchuk 1/28/2013 15:44",
+		"acceptBlockNode:" : "YuriyTymchuk 1/28/2013 15:44",
 		"acceptCascadeNode:" : "YuriyTymchuk 1/23/2013 16:13",
 		"acceptLiteralNode:" : "YuriyTymchuk 1/23/2013 09:47",
-		"acceptMessageNode:" : "YuriyTymchuk 1/24/2013 10:21",
-		"acceptMethodNode:" : "YuriyTymchuk 1/22/2013 15:05",
+		"acceptMessageNode:" : "YuriyTymchuk 1/28/2013 16:53",
+		"acceptMethodNode:" : "YuriyTymchuk 1/28/2013 15:44",
 		"acceptReturnNode:" : "YuriyTymchuk 1/22/2013 15:13",
-		"acceptSequenceNode:" : "YuriyTymchuk 1/21/2013 17:12",
-		"acceptVariableNode:" : "YuriyTymchuk 1/22/2013 14:59",
+		"acceptSequenceNode:" : "YuriyTymchuk 1/28/2013 15:44",
+		"acceptVariableNode:" : "YuriyTymchuk 1/28/2013 15:44",
 		"initializeWithClass:famixMethod:fastMethod:methodScope:" : "YuriyTymchuk 1/23/2013 10:55",
 		"runWith:and:" : "YuriyTymchuk 1/28/2013 10:37",
 		"visitStatementNode:" : "YuriyTymchuk 1/28/2013 11:04" } }

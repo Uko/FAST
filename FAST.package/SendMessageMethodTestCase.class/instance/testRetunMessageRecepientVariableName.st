@@ -1,3 +1,3 @@
 tests
 testRetunMessageRecepientVariableName
-	self assert: sendMessageMethod statements first expression recepient variable name = 'self'
+	self assert: sendMessageMethod statements first expression receiver variable name = 'self'

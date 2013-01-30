@@ -1,3 +1,3 @@
 tests
 testRetunMessageParametersCount
-	self assert: sendMessageMethod statements first expression parameters size = 1
+	self assert: sendMessageMethod statements first expression arguments size = 1

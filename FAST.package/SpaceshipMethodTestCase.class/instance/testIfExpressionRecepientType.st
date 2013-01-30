@@ -1,3 +1,3 @@
 tests
 testIfExpressionRecepientType
-	self assert: (spaceshipMethod statements first expression recepient isMemberOf: FASTMessageSend)
+	self assert: (spaceshipMethod statements first expression receiver isMemberOf: FASTMessageSend)

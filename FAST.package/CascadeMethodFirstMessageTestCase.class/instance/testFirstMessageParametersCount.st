@@ -1,3 +1,3 @@
 tests
 testFirstMessageParametersCount
-	self assert: message parameters size = 1
+	self assert: message arguments size = 1

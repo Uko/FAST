@@ -1,3 +1,3 @@
 tests
 testEqualsExpressionParameterCount
-	self assert: spaceshipMethod statements first expression recepient parameters size = 1
+	self assert: spaceshipMethod statements first expression receiver arguments size = 1

@@ -8,9 +8,9 @@
 	"instvars" : [
 		"kind",
 		"selector",
-		"recepient",
-		"parameters",
-		"cascade" ],
+		"cascade",
+		"arguments",
+		"receiver" ],
 	"name" : "FASTMessageSend",
 	"pools" : [
 		 ],

@@ -4,6 +4,6 @@ acceptVariableNode: aVariableNode
   	self extractCommentsFromNode: aVariableNode.
   	
  	fastVariableExpression := importer addEntity: FASTVariableExpression new.
- 	fastVariableExpression variable: (importer addEntity: (FASTVariable new name: aVariableNode name)).
+ 	fastVariableExpression variable: (importer addEntity: (FASTNamedEntity new name: aVariableNode name)).
 	super acceptVariableNode: aVariableNode.
  	^ fastVariableExpression

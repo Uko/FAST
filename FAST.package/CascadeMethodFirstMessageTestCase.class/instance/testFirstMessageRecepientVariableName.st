@@ -1,3 +1,3 @@
 tests
 testFirstMessageRecepientVariableName
-	self assert: message recepient variable name = 'self'
+	self assert: message receiver variable name = 'self'

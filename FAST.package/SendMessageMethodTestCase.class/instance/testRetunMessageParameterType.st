@@ -1,3 +1,3 @@
 tests
 testRetunMessageParameterType
-	self assert: (sendMessageMethod statements first expression parameters first isMemberOf: FASTMessageSend)
+	self assert: (sendMessageMethod statements first expression arguments first isMemberOf: FASTMessageSend)

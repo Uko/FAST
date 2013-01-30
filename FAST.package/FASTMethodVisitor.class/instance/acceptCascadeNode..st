@@ -1,4 +1,4 @@
-initialization
+visitor-double dispatching
 acceptCascadeNode: aCascadeNode 
   	| cascade |
  	cascade := importer addEntity: FASTCascade new.

@@ -1,3 +1,3 @@
 tests
 testSecondMessageParameterVariableName
-	self assert: message parameters first variable name = 'self'
+	self assert: message arguments first variable name = 'self'

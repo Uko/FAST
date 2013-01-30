@@ -1,3 +1,3 @@
 tests
 testDivisionExpressionRecepientVariableName
-	self assert: middleMethod statements last expression recepient name = 'sum'
+	self assert: middleMethod statements last expression receiver name = 'sum'

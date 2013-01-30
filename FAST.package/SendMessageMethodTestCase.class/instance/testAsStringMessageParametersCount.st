@@ -1,3 +1,3 @@
 tests
 testAsStringMessageParametersCount
-	self assert: sendMessageMethod statements first expression parameters first parameters isEmpty
+	self assert: sendMessageMethod statements first expression arguments first arguments isEmpty

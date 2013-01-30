@@ -1,3 +1,3 @@
 tests
 testFirstMessageRecepientType
-	self assert: (message recepient isMemberOf: FASTVariableExpression)
+	self assert: (message receiver isMemberOf: FASTVariableExpression)

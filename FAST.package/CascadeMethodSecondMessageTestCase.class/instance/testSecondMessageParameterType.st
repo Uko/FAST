@@ -1,3 +1,3 @@
 tests
 testSecondMessageParameterType
-	self assert: (message parameters first isMemberOf: FASTVariableExpression)
+	self assert: (message arguments first isMemberOf: FASTVariableExpression)
