@@ -1,9 +1,9 @@
 accessing
 runWith: aCompiledMethod and: aFamixMethod
-	fastMethod := importer addEntity: FASTMethodDefinition new.
+	fastMethod := importer addEntity: FASTNamedBehaviouralEntity new.
 	fastMethod
-		signature: aFamixMethod name;
-		famixMethod: aFamixMethod.
-	aFamixMethod fastMethod: fastMethod.
+		name: aFamixMethod name;
+		famixBehavioralEntity: aFamixMethod.
+	aFamixMethod fastNamedBehaviouralEntity: fastMethod.
 	
 	super runWith: aCompiledMethod and: aFamixMethod

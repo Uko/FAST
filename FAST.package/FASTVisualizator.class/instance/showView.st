@@ -1,4 +1,4 @@
-as yet unclassified
+displaying
 showView
 	ROTreeLayout on: view elements.
 	view open

@@ -1,3 +1,3 @@
 tests
 testStatementsDereferance
-	self assert: (block statements allSatisfy: [ :statement | statement methodDefinition == block ])
+	self assert: (block statements allSatisfy: [ :statement | statement behaviouralEntity == block ])

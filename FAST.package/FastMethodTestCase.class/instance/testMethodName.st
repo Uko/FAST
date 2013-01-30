@@ -1,7 +1,8 @@
 tests
 testMethodName
 	self
-		assert: sendMessageMethod signature = 'sendMessage';
-		assert: spaceshipMethod signature = '<=>';
-		assert: returnMethod signature = 'return:';
-		assert: middleMethod signature = 'middleOfA:andB:'
+		assert: sendMessageMethod name	= 'sendMessage';
+		assert: spaceshipMethod name		= '<=>';
+		assert: returnMethod name			= 'return:';
+		assert: middleMethod name		= 'middleOf:and:';
+		assert: cascadeMethod name		= 'cascade'

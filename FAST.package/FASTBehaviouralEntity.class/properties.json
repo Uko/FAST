@@ -4,14 +4,12 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "YuriyTymchuk 1/14/2013 16:36",
+	"commentStamp" : "<historical>",
 	"instvars" : [
-		"famixMethod",
-		"signature",
 		"statements",
 		"parameters",
 		"localVariables" ],
-	"name" : "FASTMethodDefinition",
+	"name" : "FASTBehaviouralEntity",
 	"pools" : [
 		 ],
 	"super" : "FAMIXSourcedEntity",

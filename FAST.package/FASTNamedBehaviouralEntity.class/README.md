@@ -1,0 +1,1 @@
+A behaviaural entity that can be referanced with a name.

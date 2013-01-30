@@ -1,3 +1,3 @@
 running
 getFastMethodFromModelByName: methodName
-	^ (model allMethods detect: [ :method | method name = methodName ]) fastMethod
+	^ (model allMethods detect: [ :method | method name = methodName ]) fastNamedBehaviouralEntity

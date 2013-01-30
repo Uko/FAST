@@ -9,5 +9,5 @@ visitStatementNode: aStatement
   	expression := self visitNode: aStatement.
   	statement
   		expression: expression;
-		methodDefinition: fastMethod. 
+		behaviouralEntity: fastMethod. 
   	importer addEntity: statement

@@ -1,5 +1,5 @@
 tests
 testMethodFamixRelation
 	| famixMethod |
-	famixMethod := returnMethod famixMethod.
-	self assert: famixMethod fastMethod == returnMethod
+	famixMethod := returnMethod famixBehavioralEntity.
+	self assert: famixMethod fastNamedBehaviouralEntity == returnMethod

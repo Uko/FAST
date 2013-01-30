@@ -1,0 +1,1 @@
+Represents a generic behavioural entity which has parameters and lical variables, as well as statements.

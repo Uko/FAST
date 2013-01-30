@@ -6,8 +6,9 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		 ],
-	"name" : "FASTBlockDefinition",
+		"famixBehaviouralEntity",
+		"name" ],
+	"name" : "FASTNamedBehaviouralEntity",
 	"pools" : [
 		 ],
 	"super" : "FASTBehaviouralEntity",
