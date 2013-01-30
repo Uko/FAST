@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testMethodImport
 	self assert: messageSendMethod notNil.
 	self assert: spaceshipMethod notNil.

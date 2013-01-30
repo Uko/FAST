@@ -1,3 +1,3 @@
-as yet unclassified
+tests
 testUnaryMethodParameters
 	self assert: sendMessageMethod parameters isEmpty.

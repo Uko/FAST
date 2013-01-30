@@ -1,4 +1,4 @@
-as yet unclassified
+visitor-double dispatching
 visitStatementNode: aStatement
   	"Allows to wrap top-level expressions into statements"
   

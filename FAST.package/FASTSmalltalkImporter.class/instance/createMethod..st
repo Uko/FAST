@@ -1,4 +1,4 @@
-as yet unclassified
+private-entity-creation
 createMethod: aCompiledMethod 
 	| method thisClass parentPackage |
 	method := methods 

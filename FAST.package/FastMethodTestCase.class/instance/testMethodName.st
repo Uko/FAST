@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testMethodName
 	self assert: spaceshipMethod signature = '<=>'.
 	self assert: returnMethod signature = 'return:'.

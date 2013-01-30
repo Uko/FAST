@@ -2,7 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "YuriyTymchuk 1/21/2013 15:50",
 		"testBinaryMethodParameters" : "YuriyTymchuk 1/21/2013 16:39",
 		"testKeywordMethodOneParameter" : "YuriyTymchuk 1/21/2013 16:40",
 		"testKeywordMethodWith1ParameterNaming" : "YuriyTymchuk 1/21/2013 16:40",

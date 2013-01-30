@@ -1,4 +1,4 @@
-as yet unclassified
+visitor-double dispatching
 acceptMethodNode: aMethodNode 
 
 aMethodNode arguments 

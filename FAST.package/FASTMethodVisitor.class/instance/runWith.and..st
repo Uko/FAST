@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 runWith: aCompiledMethod and: aFamixMethod
 	fastMethod := importer addEntity: FASTMethodDefinition new.
 	fastMethod

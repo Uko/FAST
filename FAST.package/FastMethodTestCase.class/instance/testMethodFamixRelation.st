@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testMethodFamixRelation
 	| famixMethod |
 	famixMethod := returnMethod famixMethod.

@@ -1,4 +1,4 @@
-as yet unclassified
+visitor-double dispatching
 acceptSequenceNode: aSequenceNode
 	aSequenceNode temporaries
 		do: [ :aVariableNode | 

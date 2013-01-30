@@ -1,3 +1,3 @@
-as yet unclassified
+tests
 testStatementsCount
 	self assert: returnMethod statements size = 1.
