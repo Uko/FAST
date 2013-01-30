@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "YuriyTymchuk 1/23/2013 11:16",
+		"testExpressionType" : "YuriyTymchuk 1/23/2013 11:20",
+		"testLiteralValue" : "YuriyTymchuk 1/23/2013 11:22",
+		"testStatementType" : "YuriyTymchuk 1/23/2013 11:20",
+		"testStatementsCount" : "YuriyTymchuk 1/23/2013 11:19",
+		"testStatementsDereferance" : "YuriyTymchuk 1/23/2013 11:19",
+		"testType" : "YuriyTymchuk 1/23/2013 11:19" } }

@@ -2,15 +2,12 @@ visitor-double dispatching
 acceptBlockNode: aBlockNode 
   	 
  	| blockLiteral blockDefinition blockVisitor |
- 	blockDefinition := importer addEntity: FASTMethodDefinition new.
-  	importer importingContext shouldImportLocalVariable 
-  		ifTrue: 
-  			[aBlockNode arguments 
-  				do: 
- 					[:aVariableNode | | fastParameter |
- 						fastParameter := importer addEntity: FASTVariable new.
-						fastParameter name: aVariableNode name.
- 						blockDefinition parameters add: fastParameter]]. 
+ 	blockDefinition := importer addEntity: FASTBlockDefinition new. 
+	[aBlockNode arguments 
+		do: [:aVariableNode | | fastParameter |
+ 			fastParameter := importer addEntity: FASTVariable new.
+			fastParameter name: aVariableNode name.
+ 			blockDefinition parameters add: fastParameter]]. 
  	
  	blockVisitor := FASTMethodVisitor on: importer.
  	blockVisitor

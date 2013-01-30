@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Test-Importer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"block" ],
+	"name" : "SpaceshipMethodSecondBlockTestCase",
+	"pools" : [
+		 ],
+	"super" : "SpaceshipMethodTestCase",
+	"type" : "normal" }

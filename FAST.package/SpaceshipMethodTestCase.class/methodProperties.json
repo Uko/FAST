@@ -2,5 +2,17 @@
 	"class" : {
 		 },
 	"instance" : {
+		"testEqualsExpressionParameterCount" : "YuriyTymchuk 1/23/2013 10:22",
+		"testEqualsExpressionParameterType" : "YuriyTymchuk 1/23/2013 10:17",
+		"testEqualsExpressionParameterVariableName" : "YuriyTymchuk 1/23/2013 10:27",
+		"testEqualsExpressionRecepientType" : "YuriyTymchuk 1/23/2013 10:16",
+		"testEqualsExpressionRecepientVariableName" : "YuriyTymchuk 1/23/2013 10:27",
+		"testEqualsExpressionSelector" : "YuriyTymchuk 1/23/2013 10:22",
+		"testIfExpressionFirstParameterType" : "YuriyTymchuk 1/23/2013 10:15",
+		"testIfExpressionParameterCount" : "YuriyTymchuk 1/23/2013 10:23",
+		"testIfExpressionRecepientType" : "YuriyTymchuk 1/23/2013 10:14",
+		"testIfExpressionSecondParameterType" : "YuriyTymchuk 1/23/2013 10:15",
+		"testIfExpressionSelector" : "YuriyTymchuk 1/23/2013 10:18",
+		"testIfExpressionType" : "YuriyTymchuk 1/23/2013 10:14",
 		"testStatementType" : "YuriyTymchuk 1/22/2013 14:35",
 		"testStatementsCount" : "YuriyTymchuk 1/22/2013 14:23" } }

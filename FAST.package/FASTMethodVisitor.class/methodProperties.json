@@ -3,13 +3,13 @@
 		 },
 	"instance" : {
 		"acceptAssignmentNode:" : "YuriyTymchuk 1/22/2013 17:49",
-		"acceptBlockNode:" : "YuriyTymchuk 1/22/2013 13:05",
+		"acceptBlockNode:" : "YuriyTymchuk 1/23/2013 10:59",
 		"acceptLiteralNode:" : "YuriyTymchuk 1/23/2013 09:47",
 		"acceptMessageNode:" : "YuriyTymchuk 1/22/2013 16:33",
 		"acceptMethodNode:" : "YuriyTymchuk 1/22/2013 15:05",
 		"acceptReturnNode:" : "YuriyTymchuk 1/22/2013 15:13",
 		"acceptSequenceNode:" : "YuriyTymchuk 1/21/2013 17:12",
 		"acceptVariableNode:" : "YuriyTymchuk 1/22/2013 14:59",
-		"initializeWithClass:famixMethod:fastMethod:methodScope:" : "YuriyTymchuk 1/22/2013 13:01",
+		"initializeWithClass:famixMethod:fastMethod:methodScope:" : "YuriyTymchuk 1/23/2013 10:55",
 		"runWith:and:" : "YuriyTymchuk 1/22/2013 11:22",
 		"visitStatementNode:" : "YuriyTymchuk 1/21/2013 17:14" } }
