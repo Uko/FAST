@@ -1,0 +1,15 @@
+{
+	"category" : "FAST-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"famixMethod",
+		"statements" ],
+	"name" : "SmalltalkASTVisitor",
+	"pools" : [
+		 ],
+	"super" : "RBProgramNodeVisitor",
+	"type" : "normal" }

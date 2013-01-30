@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"on:" : "YuriyTymchuk 12/2/2012 13:09" },
+	"instance" : {
+		"acceptAssignmentNode:" : "YuriyTymchuk 1/14/2013 16:21",
+		"acceptBlockNode:" : "YuriyTymchuk 12/2/2012 23:28",
+		"acceptCascadeNode:" : "YuriyTymchuk 1/14/2013 16:21",
+		"acceptLiteralArrayNode:" : "YuriyTymchuk 12/2/2012 22:12",
+		"acceptLiteralNode:" : "YuriyTymchuk 1/14/2013 16:18",
+		"acceptMessageNode:" : "YuriyTymchuk 1/14/2013 16:20",
+		"acceptVariableNode:" : "YuriyTymchuk 1/14/2013 16:20",
+		"famixMethod" : "YuriyTymchuk 12/2/2012 13:08",
+		"famixMethod:" : "YuriyTymchuk 12/2/2012 13:07",
+		"getStructuralEntityByName:" : "YuriyTymchuk 12/8/2012 00:13",
+		"initialize" : "YuriyTymchuk 12/2/2012 13:50",
+		"runWith:" : "YuriyTymchuk 12/8/2012 20:10",
+		"visitStatementNode:" : "YuriyTymchuk 1/14/2013 16:23" } }

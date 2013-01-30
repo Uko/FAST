@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 12/8/2012 22:52",
+	"instvars" : [
+		"methodDefinition" ],
+	"name" : "FASTStatementNode",
+	"pools" : [
+		 ],
+	"super" : "FAMIXSourcedEntity",
+	"type" : "normal" }

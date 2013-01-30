@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-TestResources",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FastTesting",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

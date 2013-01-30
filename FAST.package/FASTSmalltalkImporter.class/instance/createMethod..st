@@ -1,0 +1,32 @@
+as yet unclassified
+createMethod: aCompiledMethod 
+	| method thisClass parentPackage |
+	method := methods 
+		at: aCompiledMethod
+		put: FAMIXMethod new.
+	method name: aCompiledMethod selector.
+	thisClass := aCompiledMethod methodClass.
+	method parentType: (self ensureClass: thisClass).
+	method signature: aCompiledMethod signature.
+	"here we have two possibilities for the parentPackage of the method: 
+	=> the method belong to a package extension, we should refer to this extending packages 
+	=> if not, we should not refer to package of the class"
+	"parentPackage := aCompiledMethod methodClass package."
+	aCompiledMethod methodClass extendingPackages do: [:aRPackage |
+		(aCompiledMethod isExtensionInPackage: aRPackage)
+			ifTrue: [
+				method parentPackage: (self ensurePackage: aRPackage).
+			].
+		].
+	
+	method hasClassScope: aCompiledMethod methodClass isMeta.
+	method category: (aCompiledMethod methodClass organization categoryOfElement: aCompiledMethod selector).
+	method isPublic: true.
+	method timeStamp: aCompiledMethod timeStamp.
+	importingContext shouldImportMethodBody ifTrue: 
+		[ | visitor |
+		visitor := FASTMethodVisitor on: self.
+		visitor 
+			runWith: aCompiledMethod
+			and: method ].
+	^ method

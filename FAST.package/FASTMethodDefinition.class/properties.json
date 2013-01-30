@@ -1,0 +1,18 @@
+{
+	"category" : "FAST-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 1/14/2013 16:36",
+	"instvars" : [
+		"famixMethod",
+		"signature",
+		"statements",
+		"parameters",
+		"localVariables" ],
+	"name" : "FASTMethodDefinition",
+	"pools" : [
+		 ],
+	"super" : "FAMIXSourcedEntity",
+	"type" : "normal" }

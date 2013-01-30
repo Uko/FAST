@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Test-Importer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FastMethodTestCase",
+	"pools" : [
+		 ],
+	"super" : "ImporterTestCase",
+	"type" : "normal" }

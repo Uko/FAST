@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 12/8/2012 22:51",
+	"instvars" : [
+		"variable" ],
+	"name" : "FASTVariableExpression",
+	"pools" : [
+		 ],
+	"super" : "FASTExpression",
+	"type" : "normal" }

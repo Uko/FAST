@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 12/8/2012 22:25",
+	"instvars" : [
+		 ],
+	"name" : "FASTExpression",
+	"pools" : [
+		 ],
+	"super" : "FAMIXSourcedEntity",
+	"type" : "normal" }

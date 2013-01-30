@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Importer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fastMethod" ],
+	"name" : "FASTMethodVisitor",
+	"pools" : [
+		 ],
+	"super" : "SmalltalkMethodVisitor",
+	"type" : "normal" }

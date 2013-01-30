@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testBinaryMethodParameters" : "YuriyTymchuk 1/21/2013 14:58",
+		"testKeywordMethodOneParameter" : "YuriyTymchuk 1/21/2013 14:53",
+		"testKeywordMethodWith2Parameters" : "YuriyTymchuk 1/21/2013 14:53",
+		"testMethodFamixRelation" : "YuriyTymchuk 1/21/2013 14:53",
+		"testMethodImport" : "YuriyTymchuk 1/21/2013 14:53",
+		"testMethodName" : "YuriyTymchuk 1/21/2013 14:53",
+		"testMethodNoTemporaries" : "YuriyTymchuk 1/21/2013 14:54",
+		"testUnaryMethodParameters" : "YuriyTymchuk 1/21/2013 14:54" } }

@@ -1,0 +1,1 @@
+Represents a method definition and holds metadata about a method such as name, parameters, local variables.

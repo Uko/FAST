@@ -1,0 +1,15 @@
+{
+	"category" : "FAST-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 12/8/2012 22:49",
+	"instvars" : [
+		"recepient",
+		"messages" ],
+	"name" : "FASTCascade",
+	"pools" : [
+		 ],
+	"super" : "FASTExpression",
+	"type" : "normal" }

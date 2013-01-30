@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 12/8/2012 22:54",
+	"instvars" : [
+		"expression" ],
+	"name" : "FASTReturnStatement",
+	"pools" : [
+		 ],
+	"super" : "FASTStatementNode",
+	"type" : "normal" }

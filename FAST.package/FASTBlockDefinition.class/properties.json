@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FASTBlockDefinition",
+	"pools" : [
+		 ],
+	"super" : "FASTMethodDefinition",
+	"type" : "normal" }

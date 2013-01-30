@@ -1,0 +1,17 @@
+{
+	"category" : "FAST-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 12/8/2012 22:48",
+	"instvars" : [
+		"kind",
+		"selector",
+		"recepient",
+		"parameters" ],
+	"name" : "FASTMessageSend",
+	"pools" : [
+		 ],
+	"super" : "FASTExpression",
+	"type" : "normal" }
