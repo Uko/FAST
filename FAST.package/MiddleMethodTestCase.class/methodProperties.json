@@ -2,5 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
+		"testAssignmentExpressionAssigneeName" : "YuriyTymchuk 1/22/2013 18:01",
+		"testAssignmentExpressionAssigneeType" : "YuriyTymchuk 1/22/2013 17:59",
+		"testAssignmentExpressionType" : "YuriyTymchuk 1/22/2013 17:57",
 		"testStatementsCount" : "YuriyTymchuk 1/22/2013 14:25",
-		"testStatementsType" : "YuriyTymchuk 1/22/2013 14:34" } }
+		"testStatementsType" : "YuriyTymchuk 1/22/2013 14:34",
+		"testSumExpressionAssigneeType" : "YuriyTymchuk 1/22/2013 18:00" } }
