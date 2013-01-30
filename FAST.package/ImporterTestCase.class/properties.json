@@ -11,6 +11,7 @@
 		"returnMethod",
 		"middleMethod",
 		"spaceshipMethod",
+		"cascadeMethod",
 		"allMethods" ],
 	"name" : "ImporterTestCase",
 	"pools" : [
