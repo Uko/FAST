@@ -6,14 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"model",
-		"sendMessageMethod",
-		"returnMethod",
-		"middleMethod",
-		"spaceshipMethod",
-		"allMethods" ],
-	"name" : "ImporterTestCase",
+		 ],
+	"name" : "GeneralizedMethodTestCase",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "ImporterTestCase",
 	"type" : "normal" }
