@@ -2,4 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "YuriyTymchuk 1/22/2013 13:24" } }
+		"getFastMethodFromModelByName:" : "YuriyTymchuk 1/22/2013 14:18",
+		"setUp" : "YuriyTymchuk 1/22/2013 13:46",
+		"setUpMethods" : "YuriyTymchuk 1/22/2013 14:07" } }

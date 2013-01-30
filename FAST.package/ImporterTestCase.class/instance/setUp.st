@@ -7,9 +7,4 @@ setUp
 	addClasses: (OrderedCollection with: FastTesting);
 	run.
 	
-	sendMessageMethod := (model allMethods detect: [ :method | method name = 'sendMessage' ]) fastMethod.
-	spaceshipMethod := (model allMethods detect: [ :method | method name = '<=>' ]) fastMethod.
-	returnMethod := (model allMethods detect: [ :method | method name = 'return:' ]) fastMethod.
-	middleMethod := (model allMethods detect: [ :method | method name = 'middleOfA:andB:' ]) fastMethod.
-	
-	allMethods := {sendMessageMethod . spaceshipMethod . returnMethod . middleMethod}
+	self setUpMethods
