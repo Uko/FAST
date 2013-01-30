@@ -1,3 +1,3 @@
 tests
 testUnaryMethodParameters
-	self assert: sendMessageMethod parameters isEmpty.
+	self assert: sendMessageMethod parameters isEmpty

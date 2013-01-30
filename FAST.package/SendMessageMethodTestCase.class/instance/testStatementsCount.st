@@ -1,3 +1,3 @@
 tests
 testStatementsCount
-	self assert: sendMessageMethod statements size = 1.
+	self assert: sendMessageMethod statements size = 1

@@ -1,3 +1,3 @@
 tests
 testKeywordMethodWith2Parameters
-	self assert: middleMethod parameters size = 2.
+	self assert: middleMethod parameters size = 2

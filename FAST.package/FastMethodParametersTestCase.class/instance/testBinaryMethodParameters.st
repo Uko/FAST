@@ -1,3 +1,3 @@
 tests
 testBinaryMethodParameters
-	self assert: spaceshipMethod parameters size = 1.
+	self assert: spaceshipMethod parameters size = 1

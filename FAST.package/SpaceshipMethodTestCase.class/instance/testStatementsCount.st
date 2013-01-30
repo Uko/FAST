@@ -1,3 +1,3 @@
 tests
 testStatementsCount
-	self assert: spaceshipMethod statements size = 1.
+	self assert: spaceshipMethod statements size = 1

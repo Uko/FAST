@@ -1,3 +1,3 @@
 tests
 testStatementsCount
-	self assert: middleMethod statements size = 2.
+	self assert: middleMethod statements size = 2

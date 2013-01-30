@@ -1,3 +1,3 @@
 tests
 testStatementsCount
-	self assert: returnMethod statements size = 1.
+	self assert: returnMethod statements size = 1

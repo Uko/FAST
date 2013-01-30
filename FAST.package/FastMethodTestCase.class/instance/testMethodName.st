@@ -1,5 +1,7 @@
 tests
 testMethodName
-	self assert: spaceshipMethod signature = '<=>'.
-	self assert: returnMethod signature = 'return:'.
-	self assert: middleMethod signature = 'middleOfA:andB:'
+	self
+		assert: sendMessageMethod signature = 'sendMessage';
+		assert: spaceshipMethod signature = '<=>';
+		assert: returnMethod signature = 'return:';
+		assert: middleMethod signature = 'middleOfA:andB:'

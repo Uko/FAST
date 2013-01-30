@@ -1,3 +1,3 @@
 tests
 testMethodWithTemporaries
-	self assert: middleMethod localVariables size = 1.
+	self assert: middleMethod localVariables size = 1

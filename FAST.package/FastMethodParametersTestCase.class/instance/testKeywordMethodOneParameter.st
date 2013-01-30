@@ -1,3 +1,3 @@
 tests
 testKeywordMethodOneParameter
-	self assert: returnMethod parameters size = 1.
+	self assert: returnMethod parameters size = 1
