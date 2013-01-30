@@ -1,3 +1,3 @@
 tests
-testKeywordMethodWith2Parameters
+testMiddleMethodParametersCount
 	self assert: middleMethod parameters size = 2

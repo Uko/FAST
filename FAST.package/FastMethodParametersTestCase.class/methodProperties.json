@@ -2,10 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testBinaryMethodParameters" : "YuriyTymchuk 1/22/2013 14:26",
-		"testBinaryMethodParametersNaming" : "YuriyTymchuk 1/23/2013 10:12",
-		"testKeywordMethodOneParameter" : "YuriyTymchuk 1/22/2013 14:26",
-		"testKeywordMethodWith1ParameterNaming" : "YuriyTymchuk 1/21/2013 16:40",
-		"testKeywordMethodWith2Parameters" : "YuriyTymchuk 1/22/2013 14:26",
-		"testKeywordMethodWith2ParametersNaming" : "YuriyTymchuk 1/22/2013 14:26",
-		"testUnaryMethodParameters" : "YuriyTymchuk 1/22/2013 14:26" } }
+		"testMiddleMethodParameterNames" : "YuriyTymchuk 1/23/2013 17:48",
+		"testMiddleMethodParametersCount" : "YuriyTymchuk 1/23/2013 17:47",
+		"testReturnMethodParameterName" : "YuriyTymchuk 1/23/2013 17:47",
+		"testReturnMethodParametersCount" : "YuriyTymchuk 1/23/2013 17:46",
+		"testSendMessageMethodParametersCount" : "YuriyTymchuk 1/23/2013 17:49",
+		"testSpaceshipMethodParameters" : "YuriyTymchuk 1/23/2013 17:46",
+		"testSpaceshipMethodParametersNaming" : "YuriyTymchuk 1/23/2013 17:46" } }

@@ -1,3 +1,3 @@
 tests
-testUnaryMethodParameters
+testSendMessageMethodParametersCount
 	self assert: sendMessageMethod parameters isEmpty
