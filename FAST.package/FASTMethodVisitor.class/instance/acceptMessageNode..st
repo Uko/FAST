@@ -5,7 +5,7 @@ acceptMessageNode: aMessageNode
  	message selector: aMessageNode selector.
  	importer addEntity: message.
  	
-  	(aMessageNode isCascaded not or: [aMessageNode isFirstCascaded]) 
+  	aMessageNode isCascaded not 
  		ifTrue: [message receiver: (self visitNode: aMessageNode receiver)].  
  	aMessageNode arguments do: [:each | message arguments add: (self visitNode: each)].
 	

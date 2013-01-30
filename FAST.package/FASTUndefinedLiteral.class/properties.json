@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "FASTUndefinedLiteral",
+	"pools" : [
+		 ],
+	"super" : "FASTLiteral",
+	"type" : "normal" }

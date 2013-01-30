@@ -18,7 +18,7 @@ acceptBlockNode: aBlockNode
  	
  	blockVisitor visitNode: aBlockNode body.
  	
- 	blockLiteral := importer addEntity: FASTBlockLiteral new.
+ 	blockLiteral := importer addEntity: FASTBlockExpression new.
  	blockLiteral
  		block: blockDefinition.
  	^ blockLiteral

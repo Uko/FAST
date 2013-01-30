@@ -1,3 +1,3 @@
 accessing
 name
-	^ value asString 
+	^ self signature

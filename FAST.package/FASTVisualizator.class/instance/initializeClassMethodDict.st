@@ -4,7 +4,7 @@ initializeClassMethodDict
 		add: FASTCascade				-> #addCascade:;
 		add: FASTAssignmentExpression	-> #addAssignment:;
 		add: FASTLiteral					-> #addLiteral:;
-		add: FASTBlockLiteral				-> #addBlockLiteral:;
+		add: FASTBlockExpression				-> #addBlockLiteral:;
 		add: FASTMessageSend			-> #addMessage:;
 		add: FASTVariableExpression		-> #addVariableExpression:;
 		add: FASTNamedBehaviouralEntity	-> #addMethod:;

@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "YuriyTymchuk 12/8/2012 22:41",
 	"instvars" : [
-		"value" ],
+		"signature" ],
 	"name" : "FASTLiteral",
 	"pools" : [
 		 ],

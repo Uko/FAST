@@ -1,4 +1,4 @@
-initialization
+accessing
 cascade: aCascade
 	cascade := FMMultivalueLink
 		on: self

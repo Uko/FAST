@@ -1,4 +1,4 @@
-initialization
+as yet unclassified
 isCascaded
 	<MSEProperty: #isCascaded type: #Boolean>
 	<derived>
