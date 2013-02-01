@@ -2,12 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
+		"acceptArrayNode:" : "YuriyTymchuk 1/31/2013 10:17",
 		"acceptAssignmentNode:" : "YuriyTymchuk 1/28/2013 15:44",
 		"acceptBlockNode:" : "YuriyTymchuk 1/29/2013 14:42",
 		"acceptBooleanLiteralNode:" : "YuriyTymchuk 1/30/2013 10:55",
 		"acceptCascadeNode:" : "YuriyTymchuk 1/30/2013 09:53",
 		"acceptCharacterLiteralNode:" : "YuriyTymchuk 1/30/2013 10:43",
-		"acceptLiteralArrayNode:" : "YuriyTymchuk 1/30/2013 11:25",
+		"acceptLiteralArrayNode:" : "YuriyTymchuk 1/31/2013 10:57",
 		"acceptLiteralNode:" : "YuriyTymchuk 1/30/2013 10:38",
 		"acceptMessageNode:" : "YuriyTymchuk 1/30/2013 09:53",
 		"acceptMethodNode:" : "YuriyTymchuk 1/28/2013 15:44",

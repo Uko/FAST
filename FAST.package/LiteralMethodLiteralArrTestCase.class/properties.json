@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Test-Importer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"array" ],
+	"name" : "LiteralMethodLiteralArrTestCase",
+	"pools" : [
+		 ],
+	"super" : "LiteralMethodTestCase",
+	"type" : "normal" }

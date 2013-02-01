@@ -12,7 +12,8 @@
 		"middleMethod",
 		"spaceshipMethod",
 		"cascadeMethod",
-		"allMethods" ],
+		"allMethods",
+		"literalMethod" ],
 	"name" : "ImporterTestCase",
 	"pools" : [
 		 ],
