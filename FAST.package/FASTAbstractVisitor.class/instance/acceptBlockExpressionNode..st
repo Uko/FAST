@@ -1,0 +1,3 @@
+visitor-double dispatching
+acceptBlockExpressionNode: aBlockExpression
+	self visitNode: aBlockExpression block

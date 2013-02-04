@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Model-Extention",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "FASTAbstractVisitor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

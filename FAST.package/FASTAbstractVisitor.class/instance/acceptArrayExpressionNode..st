@@ -1,0 +1,3 @@
+visitor-double dispatching
+acceptArrayExpressionNode: anArrayExpressionNode
+	self visitAllNodes: anArrayExpressionNode contents

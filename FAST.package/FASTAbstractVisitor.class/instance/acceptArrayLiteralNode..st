@@ -1,0 +1,3 @@
+visitor-double dispatching
+acceptArrayLiteralNode: aLiteralArrayNode
+	self visitAllNodes: aLiteralArrayNode contents

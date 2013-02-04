@@ -1,0 +1,1 @@
+An abstract visitor for FAST model

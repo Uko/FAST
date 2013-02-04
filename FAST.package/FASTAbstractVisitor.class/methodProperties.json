@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptArrayExpressionNode:" : "YuriyTymchuk 2/4/2013 16:10",
+		"acceptArrayLiteralNode:" : "YuriyTymchuk 2/4/2013 16:10",
+		"acceptAssignmentNode:" : "YuriyTymchuk 2/4/2013 11:40",
+		"acceptBehaviouralEntityNode:" : "YuriyTymchuk 2/4/2013 16:11",
+		"acceptBlockExpressionNode:" : "YuriyTymchuk 2/4/2013 16:09",
+		"acceptCascadeNode:" : "YuriyTymchuk 2/4/2013 16:12",
+		"acceptLiteralNode:" : "YuriyTymchuk 2/4/2013 15:46",
+		"acceptMessageSendNode:" : "YuriyTymchuk 2/4/2013 16:22",
+		"acceptNamedEntityNode:" : "YuriyTymchuk 2/4/2013 16:09",
+		"acceptStatementNode:" : "YuriyTymchuk 2/4/2013 11:33",
+		"acceptVariableExpressionNode:" : "YuriyTymchuk 2/4/2013 16:26",
+		"visitAllNodes:" : "YuriyTymchuk 2/4/2013 16:05",
+		"visitNode:" : "YuriyTymchuk 2/4/2013 11:31" } }

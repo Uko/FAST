@@ -1,0 +1,3 @@
+visitor-double dispatching
+acceptNamedEntityNode: aNamedEntity
+	self subclassResponsibility

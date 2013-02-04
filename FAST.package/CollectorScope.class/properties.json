@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Scope",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "CollectorScope",
+	"pools" : [
+		 ],
+	"super" : "Scope",
+	"type" : "normal" }

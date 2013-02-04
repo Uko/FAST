@@ -1,0 +1,16 @@
+{
+	"category" : "FAST-Scope",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"variables",
+		"parent",
+		"owner" ],
+	"name" : "Scope",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

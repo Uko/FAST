@@ -1,0 +1,1 @@
+Scope that creates a named entity on resolution if it doesn't have any registered allready

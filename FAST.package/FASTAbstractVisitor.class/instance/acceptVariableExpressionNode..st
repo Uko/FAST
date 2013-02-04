@@ -1,0 +1,3 @@
+visitor-double dispatching
+acceptVariableExpressionNode: aVariableExpressionNode
+	self visitNode: aVariableExpressionNode variable

@@ -1,0 +1,1 @@
+A class representing variable scope and holding referance to parrent scopes
