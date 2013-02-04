@@ -1,4 +1,4 @@
-*FAST-Scope
+*FAST-Resolution
 initScope
 	|scope|
 	scope := Scope newWithParent: CollectorScope new.
