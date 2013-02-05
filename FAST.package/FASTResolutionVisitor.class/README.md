@@ -1,0 +1,1 @@
+A visitor used for resolution of variables 

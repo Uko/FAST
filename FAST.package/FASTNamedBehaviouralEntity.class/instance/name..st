@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 name: aName
 	name := aName

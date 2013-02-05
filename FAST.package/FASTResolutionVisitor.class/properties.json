@@ -1,16 +1,14 @@
 {
-	"category" : "FAST-Model",
+	"category" : "FAST-Resolution",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"famixBehaviouralEntity",
-		"name",
 		"scope" ],
-	"name" : "FASTNamedBehaviouralEntity",
+	"name" : "FASTResolutionVisitor",
 	"pools" : [
 		 ],
-	"super" : "FASTBehaviouralEntity",
+	"super" : "FASTAbstractVisitor",
 	"type" : "normal" }
