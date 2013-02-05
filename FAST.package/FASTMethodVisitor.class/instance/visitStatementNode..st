@@ -10,4 +10,4 @@ visitStatementNode: aStatement
   	statement
   		expression: expression;
 		behaviouralEntity: fastMethod. 
-  	importer addEntity: statement
+  	self addToModel: statement

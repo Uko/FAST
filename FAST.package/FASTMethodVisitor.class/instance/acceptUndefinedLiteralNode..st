@@ -1,4 +1,4 @@
 visitor-double literal dispatching
 acceptUndefinedLiteralNode: literalNode
 	| literal |
-	^ importer addEntity: FASTUndefinedLiteral new
+	^ self addToModel: FASTUndefinedLiteral new

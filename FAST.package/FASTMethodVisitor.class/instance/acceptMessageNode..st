@@ -3,7 +3,7 @@ acceptMessageNode: aMessageNode
   	| invocation message | 
  	message := FASTMessageSend new.
  	message selector: aMessageNode selector.
- 	importer addEntity: message.
+ 	self addToModel: message.
  	
   	aMessageNode isCascaded not 
  		ifTrue: [message receiver: (self visitNode: aMessageNode receiver)].  

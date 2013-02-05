@@ -1,6 +1,6 @@
 accessing
 runWith: aCompiledMethod and: aFamixMethod
-	fastMethod := importer addEntity: FASTNamedBehaviouralEntity new.
+	fastMethod := self addToModel: FASTNamedBehaviouralEntity new.
 	fastMethod
 		name: aFamixMethod name;
 		famixBehavioralEntity: aFamixMethod.

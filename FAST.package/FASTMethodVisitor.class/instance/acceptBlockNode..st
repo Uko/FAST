@@ -2,10 +2,10 @@ visitor-double dispatching
 acceptBlockNode: aBlockNode 
   	 
  	| blockLiteral blockDefinition blockVisitor |
- 	blockDefinition := importer addEntity: FASTBlockDefinition new. 
+ 	blockDefinition := self addToModel: FASTBlockDefinition new. 
 	[aBlockNode arguments 
 		do: [:aVariableNode | | fastParameter |
- 			fastParameter := importer addEntity: FASTNamedEntity new.
+ 			fastParameter := self addToModel: FASTNamedEntity new.
 			fastParameter name: aVariableNode name.
  			blockDefinition parameters add: fastParameter]]. 
  	
@@ -18,7 +18,7 @@ acceptBlockNode: aBlockNode
  	
  	blockVisitor visitNode: aBlockNode body.
  	
- 	blockLiteral := importer addEntity: FASTBlockExpression new.
+ 	blockLiteral := self addToModel: FASTBlockExpression new.
  	blockLiteral
  		block: blockDefinition.
  	^ blockLiteral

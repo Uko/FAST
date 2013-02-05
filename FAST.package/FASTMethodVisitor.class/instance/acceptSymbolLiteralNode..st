@@ -1,7 +1,7 @@
 visitor-double literal dispatching
 acceptSymbolLiteralNode: literalNode
 	| literal |
-	literal := importer addEntity: FASTSymbolLiteral new.
+	literal := self addToModel: FASTSymbolLiteral new.
 	^ literal
 		value: literalNode value;
 		signature: '#', literalNode value asString;

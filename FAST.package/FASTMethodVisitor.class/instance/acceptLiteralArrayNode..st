@@ -1,7 +1,7 @@
 visitor-double dispatching
 acceptLiteralArrayNode: aLiteralArrayNode
 	| literal |
-	literal := importer addEntity:
+	literal := self addToModel: 
 		(aLiteralArrayNode isForByteArray
 			ifTrue: [ FASTByteArrayLiteral ]
 			ifFalse: [ FASTArrayLiteral ]) new.
