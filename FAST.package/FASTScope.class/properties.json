@@ -9,7 +9,7 @@
 		"variables",
 		"parent",
 		"owner" ],
-	"name" : "Scope",
+	"name" : "FASTScope",
 	"pools" : [
 		 ],
 	"super" : "Object",

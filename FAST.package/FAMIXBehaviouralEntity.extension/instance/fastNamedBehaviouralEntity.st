@@ -2,4 +2,4 @@
 fastNamedBehaviouralEntity
 	<MSEProperty: #fastMethod type: #FASTNamedBehaviouralEntity opposite: #famixBehaviouralEntity>
 	<MSEComment: 'Corresponding FASTMethodDefinition node'>
-	^ self privateState cacheAt: #fastNamedBehaviouralEntity ifAbsentPut: [ FASTNamedBehaviouralEntity new ]
+	^ self privateState cacheAt: #fastNamedBehaviouralEntity ifAbsent: nil

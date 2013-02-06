@@ -1,3 +1,3 @@
 as yet unclassified
 owner
-	^owner
+	^ owner

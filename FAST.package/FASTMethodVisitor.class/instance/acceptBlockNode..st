@@ -1,24 +1,16 @@
 visitor-double dispatching
 acceptBlockNode: aBlockNode 
   	 
- 	| blockLiteral blockDefinition blockVisitor |
+ 	| blockLiteral blockDefinition |
  	blockDefinition := self addToModel: FASTBlockDefinition new. 
-	[aBlockNode arguments 
+	aBlockNode arguments 
 		do: [:aVariableNode | | fastParameter |
  			fastParameter := self addToModel: FASTNamedEntity new.
 			fastParameter name: aVariableNode name.
- 			blockDefinition parameters add: fastParameter]]. 
+ 			blockDefinition parameters add: fastParameter]. 
  	
- 	blockVisitor := FASTMethodVisitor on: importer.
- 	blockVisitor
- 		initializeWithClass: theClass
- 		famixMethod: famixMethod
- 		fastMethod: blockDefinition
- 		methodScope: methodScope.	
- 	
- 	blockVisitor visitNode: aBlockNode body.
+ 	(self cloneWithFastBehaviouralEntity: blockDefinition) visitNode: aBlockNode body.
  	
  	blockLiteral := self addToModel: FASTBlockExpression new.
- 	blockLiteral
- 		block: blockDefinition.
+ 	blockLiteral block: blockDefinition.
  	^ blockLiteral
