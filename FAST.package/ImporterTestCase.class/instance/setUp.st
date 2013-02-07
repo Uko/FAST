@@ -2,7 +2,7 @@ running
 setUp
 	model := MooseModel new.
 	MooseSqueakClassPackageImporterTask new
-	importerClass: FASTSmalltalkImporter;
+	importerClass: SmalltalkImporter;
 	model: model;
 	addClasses: (OrderedCollection with: FastTesting);
 	run.
