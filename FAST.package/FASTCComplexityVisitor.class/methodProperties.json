@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"calculateComplexityOf:" : "YuriyTymchuk 2/11/2013 22:37" },
+	"instance" : {
+		"acceptLiteralNode:" : "YuriyTymchuk 2/11/2013 17:39",
+		"acceptMessageSendNode:" : "YuriyTymchuk 2/11/2013 22:45",
+		"acceptNamedEntityNode:" : "YuriyTymchuk 2/11/2013 17:39",
+		"calculateComplexityOf:" : "YuriyTymchuk 2/11/2013 22:37",
+		"initialize" : "YuriyTymchuk 2/11/2013 17:44" } }

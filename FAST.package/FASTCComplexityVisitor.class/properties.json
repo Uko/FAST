@@ -1,0 +1,16 @@
+{
+	"category" : "FAST-Model-Extention",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"complexity",
+		"branches",
+		"loops" ],
+	"name" : "FASTCComplexityVisitor",
+	"pools" : [
+		 ],
+	"super" : "FASTAbstractVisitor",
+	"type" : "normal" }
