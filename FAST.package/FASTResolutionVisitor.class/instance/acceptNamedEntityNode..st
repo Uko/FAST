@@ -1,3 +1,3 @@
 as yet unclassified
 acceptNamedEntityNode: aNamedEntityNode
-	aNamedEntityNode famixVariable: (scope resolve: aNamedEntityNode name)
+	aNamedEntityNode famixNamedEntity: (scope resolve: aNamedEntityNode name)
