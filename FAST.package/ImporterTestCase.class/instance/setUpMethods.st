@@ -6,5 +6,6 @@ setUpMethods
 	middleMethod      := self getFastMethodFromModelByName: 'middleOf:and:'.
 	cascadeMethod     := self getFastMethodFromModelByName: 'cascade'.
 	literalMethod     := self getFastMethodFromModelByName: 'lotsOfLiterals'.
+	scopeMethod       := self getFastMethodFromModelByName: 'scope'.
 	
 	allMethods := {sendMessageMethod . spaceshipMethod . returnMethod . middleMethod . cascadeMethod}

@@ -6,3 +6,4 @@ SystemOrganization addCategory: #'FAST-Visualization'!
 SystemOrganization addCategory: #'FAST-Scope'!
 SystemOrganization addCategory: #'FAST-Model-Extention'!
 SystemOrganization addCategory: #'FAST-Resolution'!
+SystemOrganization addCategory: #'FAST-Test-Resolution'!

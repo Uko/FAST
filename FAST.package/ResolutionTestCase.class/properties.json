@@ -1,14 +1,14 @@
 {
-	"category" : "FAST-TestResources",
+	"category" : "FAST-Test-Resolution",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"instVar" ],
-	"name" : "FastTesting",
+		 ],
+	"name" : "ResolutionTestCase",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "ImporterTestCase",
 	"type" : "normal" }

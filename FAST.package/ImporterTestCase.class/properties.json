@@ -13,7 +13,8 @@
 		"spaceshipMethod",
 		"cascadeMethod",
 		"allMethods",
-		"literalMethod" ],
+		"literalMethod",
+		"scopeMethod" ],
 	"name" : "ImporterTestCase",
 	"pools" : [
 		 ],

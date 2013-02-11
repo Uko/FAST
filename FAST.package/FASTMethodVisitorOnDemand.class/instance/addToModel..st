@@ -1,3 +1,3 @@
 as yet unclassified
 addToModel: anEntity
-	^ model add: anEntity
+	^ model silentlyAdd: anEntity
