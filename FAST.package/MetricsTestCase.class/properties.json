@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Test-Model-Extention",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MetricsTestCase",
+	"pools" : [
+		 ],
+	"super" : "ImporterTestCase",
+	"type" : "normal" }

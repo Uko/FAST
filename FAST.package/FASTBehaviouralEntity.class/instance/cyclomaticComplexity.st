@@ -1,4 +1,4 @@
-as yet unclassified
+*FAST-Model-Extentions
 cyclomaticComplexity
 	<MSEProperty: #cyclomaticComplexity type: #Number>
 	<derivate>

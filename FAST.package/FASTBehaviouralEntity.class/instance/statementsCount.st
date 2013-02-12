@@ -1,4 +1,4 @@
-as yet unclassified
+*FAST-Model-Extentions
 statementsCount
 	<MSEProperty: #statementsCount type: #Number>
 	<derivate>
