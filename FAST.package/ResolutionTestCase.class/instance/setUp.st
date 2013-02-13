@@ -1,5 +1,4 @@
 as yet unclassified
 setUp
 	super setUp.
-	scopeMethod resolveVariables
-	
+	allMethods do: [:each | each resolveVariables]

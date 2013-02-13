@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Test-Resolution",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ScopeResolutionTestCase",
+	"pools" : [
+		 ],
+	"super" : "ResolutionTestCase",
+	"type" : "normal" }
