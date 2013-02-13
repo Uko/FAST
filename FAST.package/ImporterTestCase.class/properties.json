@@ -14,7 +14,8 @@
 		"cascadeMethod",
 		"allMethods",
 		"literalMethod",
-		"scopeMethod" ],
+		"scopeMethod",
+		"nestMethod" ],
 	"name" : "ImporterTestCase",
 	"pools" : [
 		 ],
