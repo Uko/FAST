@@ -3,6 +3,7 @@
 		"print:" : "YuriyTymchuk 2/12/2013 14:50" },
 	"instance" : {
 		"acceptArrayExpressionNode:" : "YuriyTymchuk 2/12/2013 23:15",
+		"acceptArrayLiteralNode:" : "YuriyTymchuk 2/13/2013 11:10",
 		"acceptAssignmentNode:" : "YuriyTymchuk 2/12/2013 22:45",
 		"acceptBlockDefinitionNode:" : "YuriyTymchuk 2/13/2013 00:35",
 		"acceptCascadeNode:" : "YuriyTymchuk 2/13/2013 00:31",
