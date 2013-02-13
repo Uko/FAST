@@ -2,6 +2,7 @@
 	"class" : {
 		"annotation" : "YuriyTymchuk 1/29/2013 09:42" },
 	"instance" : {
+		"acceptVisitor:" : "YuriyTymchuk 2/12/2013 14:21",
 		"famixBehavioralEntity" : "YuriyTymchuk 1/28/2013 10:25",
 		"famixBehavioralEntity:" : "YuriyTymchuk 1/28/2013 10:26",
 		"generateAST" : "YuriyTymchuk 1/28/2013 10:21",

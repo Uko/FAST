@@ -1,0 +1,3 @@
+visitor-double dispatching
+acceptBlockDefinitionNode: aBlockDefinitionNode
+	^ self acceptBehaviouralEntityNode: aBlockDefinitionNode

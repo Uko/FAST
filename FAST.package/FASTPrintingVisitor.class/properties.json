@@ -1,0 +1,15 @@
+{
+	"category" : "FAST-Model-Extention",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream",
+		"indentation" ],
+	"name" : "FASTPrintingVisitor",
+	"pools" : [
+		 ],
+	"super" : "FASTAbstractVisitor",
+	"type" : "normal" }
