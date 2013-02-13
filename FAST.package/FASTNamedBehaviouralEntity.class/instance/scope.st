@@ -5,7 +5,7 @@ scope
 		scope owner: self.
 		self famixBehavioralEntity implicitVariables do: [:variable | scope add: variable].
 		self famixBehavioralEntity parameters do: [:variable | scope add: variable].
-		(self getFamixVariablesForLocals: self localVariables) do: [:variable |
+		(self getFamixVariablesForVariables: self localVariables) do: [:variable |
 			scope add: variable.
 			variable fastOwnerScope: scope]].
 	^ scope

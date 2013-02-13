@@ -1,0 +1,3 @@
+*FAST-Resolution
+getFamixVariablesPool
+	^ self parentBehaviouralEntity getFamixVariablesPool
