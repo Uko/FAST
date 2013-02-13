@@ -9,7 +9,8 @@
 		"statements",
 		"parameters",
 		"localVariables",
-		"complexity" ],
+		"complexity",
+		"parentBehaviouralEntity" ],
 	"name" : "FASTBehaviouralEntity",
 	"pools" : [
 		 ],

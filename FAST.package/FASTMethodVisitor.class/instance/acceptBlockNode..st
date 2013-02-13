@@ -3,6 +3,8 @@ acceptBlockNode: aBlockNode
   	 
  	| blockLiteral blockDefinition |
  	blockDefinition := self addToModel: FASTBlockDefinition new. 
+	blockDefinition parentBehaviouralEntity: fastMethod.
+	
 	aBlockNode arguments 
 		do: [:aVariableNode | | fastParameter |
  			fastParameter := self addToModel: FASTNamedEntity new.
