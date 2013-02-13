@@ -10,5 +10,5 @@
 	"name" : "FASTResolutionVisitor",
 	"pools" : [
 		 ],
-	"super" : "FASTCComplexityVisitor",
+	"super" : "FASTAbstractVisitor",
 	"type" : "normal" }
