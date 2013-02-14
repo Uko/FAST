@@ -1,3 +1,3 @@
 accessing
-famixBehavioralEntity: aBehavioralEntity
+famixBehaviouralEntity: aBehavioralEntity
 	famixBehaviouralEntity := aBehavioralEntity

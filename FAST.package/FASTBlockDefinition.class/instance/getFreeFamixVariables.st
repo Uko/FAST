@@ -1,3 +1,0 @@
-initialization
-getFreeFamixVariables
-	^ self parentBehaviouralEntity freeFamixVariables

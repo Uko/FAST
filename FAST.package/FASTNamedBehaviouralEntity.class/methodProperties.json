@@ -3,12 +3,12 @@
 		"annotation" : "YuriyTymchuk 1/29/2013 09:42" },
 	"instance" : {
 		"acceptVisitor:" : "YuriyTymchuk 2/12/2013 14:21",
-		"famixBehavioralEntity" : "YuriyTymchuk 1/28/2013 10:25",
-		"famixBehavioralEntity:" : "YuriyTymchuk 1/28/2013 10:26",
+		"famixBehaviouralEntity" : "YuriyTymchuk 2/14/2013 14:22",
+		"famixBehaviouralEntity:" : "YuriyTymchuk 2/14/2013 14:25",
 		"generateAST" : "YuriyTymchuk 1/28/2013 10:21",
-		"getFamixVariablesPool" : "YuriyTymchuk 2/14/2013 00:40",
+		"getFamixVariablesPool" : "YuriyTymchuk 2/14/2013 14:22",
 		"mooseFinderPrintedSourceTextIn:" : "YuriyTymchuk 2/13/2013 15:21",
 		"name" : "YuriyTymchuk 1/28/2013 10:35",
 		"name:" : "YuriyTymchuk 1/28/2013 10:34",
 		"resolveVariables" : "YuriyTymchuk 2/5/2013 10:44",
-		"scope" : "YuriyTymchuk 2/13/2013 22:55" } }
+		"scope" : "YuriyTymchuk 2/14/2013 14:22" } }

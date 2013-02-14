@@ -5,7 +5,7 @@ runWithSource: sourceAsString and: aFamixMethod
 	fastMethod := self addToModel: FASTNamedBehaviouralEntity new.
 	fastMethod
 		name: aFamixMethod name;
-		famixBehavioralEntity: aFamixMethod.
+		famixBehaviouralEntity: aFamixMethod.
 	aFamixMethod fastNamedBehaviouralEntity: fastMethod.
 	 
 	theClass := aFamixMethod parentType.
