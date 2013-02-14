@@ -1,3 +1,3 @@
 *FAST-Resolution
 localVariablesPool
-	^ self privateState cacheAt: #famixVariablePool ifAbsentPut: [self localVariables copy]
+	^ self privateState cacheAt: #famixVariablePool ifAbsentPut: [OrderedCollection withAll: self localVariables]
