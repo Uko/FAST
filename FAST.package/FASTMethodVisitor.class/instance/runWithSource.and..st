@@ -11,5 +11,7 @@ runWithSource: sourceAsString and: aFamixMethod
 	theClass := aFamixMethod parentType.
 	famixMethod := aFamixMethod. 
 	methodScope := SmalltalkScope.
+	invocationsPool := OrderedCollection withAll: famixMethod outgoingInvocations.
+	
 	parseTree := self parseTreeForSource: sourceAsString. 
 	parseTree ifNotNil: [self acceptMethodNode: parseTree]	"sourceCodeAt:"

@@ -4,6 +4,10 @@ acceptMessageNode: aMessageNode
  	message := FASTMessageSend new.
  	message selector: aMessageNode selector.
  	self addToModel: message.
+	
+	message invocation: invocationsPool first.
+	message invocation messageSend: message.
+	invocationsPool remove: message invocation.
  	
   	aMessageNode isCascaded not 
  		ifTrue: [message receiver: (self visitNode: aMessageNode receiver)].  
