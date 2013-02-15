@@ -10,5 +10,5 @@
 	"name" : "NestResolutionTestCase",
 	"pools" : [
 		 ],
-	"super" : "ResolutionTestCase",
+	"super" : "ImporterTestCase",
 	"type" : "normal" }

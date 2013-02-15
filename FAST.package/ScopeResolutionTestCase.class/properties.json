@@ -10,5 +10,5 @@
 	"name" : "ScopeResolutionTestCase",
 	"pools" : [
 		 ],
-	"super" : "ResolutionTestCase",
+	"super" : "ImporterTestCase",
 	"type" : "normal" }

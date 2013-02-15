@@ -4,6 +4,6 @@ acceptAssignmentNode: anAssignmentNode
  	
 	assignment := self addToModel: FASTAssignmentExpression new.
 	assignment
-		variable: ((self addToModel: FASTNamedEntity new) name: anAssignmentNode variable name);
+		variable: (self createVariable: anAssignmentNode variable);
 		expression: (self visitNode: anAssignmentNode value).
   	^ assignment

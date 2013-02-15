@@ -5,4 +5,4 @@ cloneWithFastBehaviouralEntity: aFastBehaviouralEntity
  		famixMethod: famixMethod
  		fastMethod: aFastBehaviouralEntity
  		methodScope: methodScope
-		invocationsPool: ivocationsPool
+		invocationsPool: invocationsPool
