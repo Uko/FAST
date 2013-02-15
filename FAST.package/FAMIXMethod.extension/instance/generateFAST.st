@@ -3,5 +3,5 @@ generateFAST
 	<menuItem: 'Generate FAST'>
 	self fastNamedBehaviouralEntity ifNil: [
 		| visitor |
-		visitor := FASTMethodVisitorOnDemand newWithModel: self mooseModel.
+		visitor := FASTMethodVisitor newWithModel: self mooseModel.
 		visitor runWithSource: self sourceText and: self]

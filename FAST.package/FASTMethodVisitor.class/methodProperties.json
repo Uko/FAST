@@ -1,6 +1,6 @@
 {
 	"class" : {
-		 },
+		"newWithModel:" : "YuriyTymchuk 2/15/2013 10:23" },
 	"instance" : {
 		"acceptArrayNode:" : "YuriyTymchuk 2/5/2013 15:20",
 		"acceptAssignmentNode:" : "YuriyTymchuk 2/5/2013 15:20",
@@ -11,17 +11,19 @@
 		"acceptLiteralArrayNode:" : "YuriyTymchuk 2/5/2013 15:22",
 		"acceptLiteralNode:" : "YuriyTymchuk 1/30/2013 10:38",
 		"acceptMessageNode:" : "YuriyTymchuk 2/5/2013 15:22",
-		"acceptMethodNode:" : "YuriyTymchuk 2/15/2013 10:15",
+		"acceptMethodNode:" : "YuriyTymchuk 2/15/2013 10:19",
 		"acceptNumberLiteralNode:" : "YuriyTymchuk 2/5/2013 15:22",
 		"acceptReturnNode:" : "YuriyTymchuk 1/22/2013 15:13",
 		"acceptSequenceNode:" : "YuriyTymchuk 2/5/2013 15:22",
 		"acceptStringLiteralNode:" : "YuriyTymchuk 2/5/2013 15:23",
 		"acceptSymbolLiteralNode:" : "YuriyTymchuk 2/5/2013 15:23",
 		"acceptUndefinedLiteralNode:" : "YuriyTymchuk 2/5/2013 15:23",
-		"acceptVariableNode:" : "YuriyTymchuk 2/5/2013 15:23",
-		"addToModel:" : "YuriyTymchuk 2/5/2013 15:20",
-		"basicClone" : "YuriyTymchuk 2/6/2013 11:11",
+		"acceptVariableNode:" : "YuriyTymchuk 2/15/2013 10:19",
+		"addToModel:" : "YuriyTymchuk 2/15/2013 10:23",
+		"basicClone" : "YuriyTymchuk 2/15/2013 10:23",
 		"cloneWithFastBehaviouralEntity:" : "YuriyTymchuk 2/6/2013 11:12",
 		"initializeWithClass:famixMethod:fastMethod:methodScope:" : "YuriyTymchuk 1/23/2013 10:55",
+		"initializeWithModel:" : "YuriyTymchuk 2/15/2013 10:23",
 		"runWith:and:" : "YuriyTymchuk 2/14/2013 14:25",
+		"runWithSource:and:" : "YuriyTymchuk 2/15/2013 10:21",
 		"visitStatementNode:" : "YuriyTymchuk 2/5/2013 15:24" } }

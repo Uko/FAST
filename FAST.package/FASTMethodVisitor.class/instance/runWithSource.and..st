@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 runWithSource: sourceAsString and: aFamixMethod
 	| parseTree |
 	

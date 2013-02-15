@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"fastMethod" ],
+		"fastMethod",
+		"model" ],
 	"name" : "FASTMethodVisitor",
 	"pools" : [
 		 ],
