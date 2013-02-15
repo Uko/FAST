@@ -3,7 +3,7 @@
 		"newWithModel:" : "YuriyTymchuk 2/15/2013 10:23" },
 	"instance" : {
 		"acceptArrayNode:" : "YuriyTymchuk 2/5/2013 15:20",
-		"acceptAssignmentNode:" : "YuriyTymchuk 2/15/2013 15:52",
+		"acceptAssignmentNode:" : "YuriyTymchuk 2/15/2013 17:09",
 		"acceptBlockNode:" : "YuriyTymchuk 2/13/2013 22:08",
 		"acceptBooleanLiteralNode:" : "YuriyTymchuk 2/5/2013 15:21",
 		"acceptCascadeNode:" : "YuriyTymchuk 2/5/2013 15:22",
@@ -18,7 +18,7 @@
 		"acceptStringLiteralNode:" : "YuriyTymchuk 2/5/2013 15:23",
 		"acceptSymbolLiteralNode:" : "YuriyTymchuk 2/5/2013 15:23",
 		"acceptUndefinedLiteralNode:" : "YuriyTymchuk 2/5/2013 15:23",
-		"acceptVariableNode:" : "YuriyTymchuk 2/15/2013 15:52",
+		"acceptVariableNode:" : "YuriyTymchuk 2/15/2013 17:14",
 		"addToModel:" : "YuriyTymchuk 2/15/2013 10:23",
 		"basicClone" : "YuriyTymchuk 2/15/2013 10:23",
 		"cloneWithFastBehaviouralEntity:" : "YuriyTymchuk 2/15/2013 15:21",

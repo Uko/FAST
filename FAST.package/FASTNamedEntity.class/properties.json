@@ -7,7 +7,9 @@
 	"commentStamp" : "YuriyTymchuk 1/14/2013 17:44",
 	"instvars" : [
 		"name",
-		"famixNamedEntity" ],
+		"famixNamedEntity",
+		"assignmentExpression",
+		"variableExpression" ],
 	"name" : "FASTNamedEntity",
 	"pools" : [
 		 ],

@@ -1,1 +1,0 @@
-Importer used to generate FAST model from smalltalk method.
