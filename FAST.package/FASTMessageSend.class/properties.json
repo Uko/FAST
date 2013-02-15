@@ -10,7 +10,8 @@
 		"selector",
 		"cascade",
 		"arguments",
-		"receiver" ],
+		"receiver",
+		"invocation" ],
 	"name" : "FASTMessageSend",
 	"pools" : [
 		 ],
