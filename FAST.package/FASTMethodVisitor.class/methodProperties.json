@@ -2,15 +2,15 @@
 	"class" : {
 		"newWithModel:" : "YuriyTymchuk 2/15/2013 10:23" },
 	"instance" : {
-		"acceptArrayNode:" : "YuriyTymchuk 2/5/2013 15:20",
-		"acceptAssignmentNode:" : "YuriyTymchuk 2/15/2013 17:09",
+		"acceptArrayNode:" : "YuriyTymchuk 2/16/2013 17:20",
+		"acceptAssignmentNode:" : "YuriyTymchuk 2/16/2013 17:18",
 		"acceptBlockNode:" : "YuriyTymchuk 2/13/2013 22:08",
 		"acceptBooleanLiteralNode:" : "YuriyTymchuk 2/5/2013 15:21",
-		"acceptCascadeNode:" : "YuriyTymchuk 2/5/2013 15:22",
+		"acceptCascadeNode:" : "YuriyTymchuk 2/16/2013 17:23",
 		"acceptCharacterLiteralNode:" : "YuriyTymchuk 2/5/2013 15:22",
 		"acceptLiteralArrayNode:" : "YuriyTymchuk 2/5/2013 15:22",
 		"acceptLiteralNode:" : "YuriyTymchuk 2/15/2013 15:23",
-		"acceptMessageNode:" : "YuriyTymchuk 2/15/2013 13:55",
+		"acceptMessageNode:" : "YuriyTymchuk 2/16/2013 17:26",
 		"acceptMethodNode:" : "YuriyTymchuk 2/15/2013 10:19",
 		"acceptNumberLiteralNode:" : "YuriyTymchuk 2/5/2013 15:22",
 		"acceptReturnNode:" : "YuriyTymchuk 1/22/2013 15:13",
@@ -26,4 +26,4 @@
 		"initializeWithClass:famixMethod:fastMethod:methodScope:invocationsPool:" : "YuriyTymchuk 2/15/2013 13:50",
 		"initializeWithModel:" : "YuriyTymchuk 2/15/2013 10:23",
 		"runWithSource:and:" : "YuriyTymchuk 2/15/2013 14:58",
-		"visitStatementNode:" : "YuriyTymchuk 2/5/2013 15:24" } }
+		"visitStatementNode:" : "YuriyTymchuk 2/16/2013 17:17" } }

@@ -10,8 +10,14 @@ acceptMessageNode: aMessageNode
 	invocationsPool remove: message invocation.
  	
   	aMessageNode isCascaded not 
- 		ifTrue: [message receiver: (self visitNode: aMessageNode receiver)].  
- 	aMessageNode arguments do: [:each | message arguments add: (self visitNode: each)].
+ 		ifTrue: [
+			message receiver: (self visitNode: aMessageNode receiver).
+			message receiver parentExpression: message].  
+ 	aMessageNode arguments do: [:each |
+		|argument|
+		argument := self visitNode: each.
+		argument parentExpression: aMessageNode.
+		message arguments add: argument].
 	
 	message kind: (
 		aMessageNode isUnary
