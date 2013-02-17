@@ -8,3 +8,6 @@ SystemOrganization addCategory: #'FAST-Model-Extention'!
 SystemOrganization addCategory: #'FAST-Resolution'!
 SystemOrganization addCategory: #'FAST-Test-Resolution'!
 SystemOrganization addCategory: #'FAST-Test-Model-Extention'!
+SystemOrganization addCategory: #'FAST-Smalltalk-Model'!
+SystemOrganization addCategory: #'FAST-Smalltalk-Importer'!
+SystemOrganization addCategory: #'FAST-Test-Smalltalk-Importer'!
