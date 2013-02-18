@@ -1,4 +1,4 @@
-*FAST-Model-Extentions
+*FAST-Smalltalk-Model-Extension
 statementsCount
 	<MSEProperty: #statementsCount type: #Number>
 	<derivate>

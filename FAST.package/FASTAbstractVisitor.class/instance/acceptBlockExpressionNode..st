@@ -1,3 +1,3 @@
-visitor-double dispatching
+*FAST-Smalltalk-Model-Extension
 acceptBlockExpressionNode: aBlockExpression
 	self visitNode: aBlockExpression block

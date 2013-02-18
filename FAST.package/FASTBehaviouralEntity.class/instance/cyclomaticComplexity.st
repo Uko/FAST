@@ -1,4 +1,4 @@
-*FAST-Model-Extentions
+*FAST-Smalltalk-Model-Extension
 cyclomaticComplexity
 	<MSEProperty: #cyclomaticComplexity type: #Number>
 	<derivate>

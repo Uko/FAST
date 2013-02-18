@@ -1,4 +1,4 @@
-visitor-double dispatching
+*FAST-Smalltalk-Model-Extension
 acceptCascadeNode: aCascadeNode
 	self
 		visitNode: aCascadeNode receiver;

@@ -1,4 +1,4 @@
-visitor-double dispatching
+*FAST-Smalltalk-Model-Extension
 acceptAssignmentNode: anAssignmentNode
 	self
 		visitNode: anAssignmentNode variable;

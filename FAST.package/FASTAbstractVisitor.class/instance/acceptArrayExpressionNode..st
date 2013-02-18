@@ -1,3 +1,3 @@
-visitor-double dispatching
+*FAST-Smalltalk-Model-Extension
 acceptArrayExpressionNode: anArrayExpressionNode
 	self visitAllNodes: anArrayExpressionNode contents

@@ -1,4 +1,4 @@
-*FAST-Model-Extentions
+*FAST-Smalltalk-Model-Extension
 mooseFinderPrintedSourceTextIn: composite
 	<moosePresentationOrder: 10>
 	composite text
