@@ -7,7 +7,7 @@
 	"commentStamp" : "YuriyTymchuk 12/8/2012 22:52",
 	"instvars" : [
 		"behaviouralEntity" ],
-	"name" : "FASTStatementNode",
+	"name" : "FASTStatement",
 	"pools" : [
 		 ],
 	"super" : "FAMIXSourcedEntity",

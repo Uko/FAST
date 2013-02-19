@@ -10,5 +10,5 @@
 	"name" : "FASTExpressionStatement",
 	"pools" : [
 		 ],
-	"super" : "FASTStatementNode",
+	"super" : "FASTStatement",
 	"type" : "normal" }

@@ -1,4 +1,4 @@
 as yet unclassified
 annotation
-	<MSEClass: #ExpressionStatement  super: #FASTStatementNode>
+	<MSEClass: #ExpressionStatement  super: #FASTStatement>
 	<package: #FAST>

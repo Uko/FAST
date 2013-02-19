@@ -1,4 +1,4 @@
 as yet unclassified
 annotation
-	<MSEClass: #ReturnStatement super: #FASTStatementNode>
+	<MSEClass: #ReturnStatement super: #FASTStatement>
 	<package: #FAST>
