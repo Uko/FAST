@@ -16,7 +16,7 @@ acceptMessageNode: aMessageNode
  	aMessageNode arguments do: [:each |
 		|argument|
 		argument := self visitNode: each.
-		argument parentExpression: aMessageNode.
+		argument parentExpression: message.
 		message arguments add: argument].
 	
 	message kind: (

@@ -8,7 +8,5 @@ visitStatementNode: aStatement
  		ifFalse: [ statement := FASTExpressionStatement new ].
   	expression := self visitNode: aStatement.
 	expression statement: statement.
-  	statement
-  		expression: expression;
-		behaviouralEntity: fastMethod. 
-  	self addToModel: statement
+  	statement expression: expression. 
+  	^ self addToModel: statement

@@ -7,13 +7,10 @@
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		"statements",
-		"parameters",
-		"localVariables",
-		"complexity",
-		"parentBehaviouralEntity",
-		"statementBlock" ],
-	"name" : "FASTBehaviouralEntity",
+		"parentBlock",
+		"parentBehaviouralEntity" ],
+	"name" : "FASTStatementBlock",
 	"pools" : [
 		 ],
-	"super" : "FAMIXSourcedEntity",
+	"super" : "FASTStatement",
 	"type" : "normal" }

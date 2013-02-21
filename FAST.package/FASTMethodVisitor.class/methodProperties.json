@@ -10,11 +10,11 @@
 		"acceptCharacterLiteralNode:" : "YuriyTymchuk 2/5/2013 15:22",
 		"acceptLiteralArrayNode:" : "YuriyTymchuk 2/5/2013 15:22",
 		"acceptLiteralNode:" : "YuriyTymchuk 2/15/2013 15:23",
-		"acceptMessageNode:" : "YuriyTymchuk 2/16/2013 17:26",
+		"acceptMessageNode:" : "YuriyTymchuk 2/21/2013 17:14",
 		"acceptMethodNode:" : "YuriyTymchuk 2/15/2013 10:19",
 		"acceptNumberLiteralNode:" : "YuriyTymchuk 2/5/2013 15:22",
 		"acceptReturnNode:" : "YuriyTymchuk 1/22/2013 15:13",
-		"acceptSequenceNode:" : "YuriyTymchuk 2/15/2013 15:50",
+		"acceptSequenceNode:" : "YuriyTymchuk 2/21/2013 17:12",
 		"acceptStringLiteralNode:" : "YuriyTymchuk 2/5/2013 15:23",
 		"acceptSymbolLiteralNode:" : "YuriyTymchuk 2/5/2013 15:23",
 		"acceptUndefinedLiteralNode:" : "YuriyTymchuk 2/5/2013 15:23",
@@ -26,4 +26,4 @@
 		"initializeWithClass:famixMethod:fastMethod:methodScope:invocationsPool:" : "YuriyTymchuk 2/15/2013 13:50",
 		"initializeWithModel:" : "YuriyTymchuk 2/15/2013 10:23",
 		"runWithSource:and:" : "YuriyTymchuk 2/15/2013 14:58",
-		"visitStatementNode:" : "YuriyTymchuk 2/16/2013 17:17" } }
+		"visitStatementNode:" : "YuriyTymchuk 2/21/2013 17:18" } }
