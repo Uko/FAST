@@ -8,8 +8,8 @@
 	"instvars" : [
 		"name",
 		"famixNamedEntity",
-		"assignmentExpression",
-		"variableExpression" ],
+		"parentAssignmentExpression",
+		"parentVariableExpression" ],
 	"name" : "FASTNamedEntity",
 	"pools" : [
 		 ],

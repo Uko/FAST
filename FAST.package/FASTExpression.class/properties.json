@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "YuriyTymchuk 12/8/2012 22:25",
 	"instvars" : [
-		"statement",
-		"parentExpression" ],
+		"parentExpression",
+		"parentStatement" ],
 	"name" : "FASTExpression",
 	"pools" : [
 		 ],

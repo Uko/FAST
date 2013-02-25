@@ -6,6 +6,6 @@ acceptAssignmentNode: anAssignmentNode
 	assignment
 		variable: (self createVariable: anAssignmentNode variable);
 		expression: (self visitNode: anAssignmentNode value).
-	assignment variable assignmentExpression: assignment.
+	assignment variable parentAssignmentExpression: assignment.
 	assignment expression parentExpression: assignment.
   	^ assignment

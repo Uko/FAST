@@ -4,5 +4,5 @@ acceptVariableNode: aVariableNode
 
  	fastVariableExpression := self addToModel: FASTVariableExpression new.
  	fastVariableExpression variable: (self createVariable: aVariableNode).
-	fastVariableExpression variable variableExpression: fastVariableExpression.
+	fastVariableExpression variable parentVariableExpression: fastVariableExpression.
  	^ fastVariableExpression

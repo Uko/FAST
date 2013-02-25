@@ -7,6 +7,6 @@ visitStatementNode: aStatement
  		ifTrue: [ statement := FASTReturnStatement new ]
  		ifFalse: [ statement := FASTExpressionStatement new ].
   	expression := self visitNode: aStatement.
-	expression statement: statement.
+	expression parentStatement: statement.
   	statement expression: expression. 
   	^ self addToModel: statement

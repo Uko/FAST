@@ -8,10 +8,10 @@
 	"instvars" : [
 		"kind",
 		"selector",
-		"cascade",
 		"arguments",
 		"receiver",
-		"invocation" ],
+		"invocation",
+		"parentCascade" ],
 	"name" : "FASTMessageSend",
 	"pools" : [
 		 ],

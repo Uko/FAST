@@ -1,4 +1,4 @@
 as yet unclassified
 initialize
 	super initialize.
-	messages := FMMultivalueLink on: self opposite: #cascade:
+	messages := FMMultivalueLink on: self opposite: #parentCascade:

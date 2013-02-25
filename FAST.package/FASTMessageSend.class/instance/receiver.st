@@ -4,5 +4,5 @@ receiver
 	<derived>
 	<MSEComment: 'Receiver of the message. This method ether uses the exact receiver or resoves it for cascade'>
 	self isCascaded
-		ifTrue: [ ^ self cascade receiver ]
+		ifTrue: [ ^ self parentCascade receiver ]
 		ifFalse: [ ^ self concreteReceiver ]
