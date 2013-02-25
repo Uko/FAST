@@ -7,7 +7,6 @@
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		"statements",
-		"parentBlock",
 		"parentBehaviouralEntity" ],
 	"name" : "FASTStatementBlock",
 	"pools" : [

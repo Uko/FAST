@@ -6,7 +6,6 @@
 		 ],
 	"commentStamp" : "YuriyTymchuk 12/8/2012 22:49",
 	"instvars" : [
-		"recepient",
 		"messages",
 		"receiver" ],
 	"name" : "FASTCascade",
