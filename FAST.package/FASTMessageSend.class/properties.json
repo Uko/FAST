@@ -9,9 +9,9 @@
 		"kind",
 		"selector",
 		"arguments",
-		"receiver",
 		"invocation",
-		"parentCascade" ],
+		"parentCascade",
+		"concreteReceiver" ],
 	"name" : "FASTMessageSend",
 	"pools" : [
 		 ],

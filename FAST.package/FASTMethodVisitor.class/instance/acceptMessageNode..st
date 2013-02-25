@@ -11,7 +11,7 @@ acceptMessageNode: aMessageNode
  	
   	aMessageNode isCascaded not 
  		ifTrue: [
-			message receiver: (self visitNode: aMessageNode receiver).
+			message concreteReceiver: (self visitNode: aMessageNode receiver).
 			message receiver parentExpression: message].  
  	aMessageNode arguments do: [:each |
 		|argument|
