@@ -1,4 +1,4 @@
 as yet unclassified
 annotation
-	<MSEClass: #ExpressionStatement  super: #FASTStatement>
+	<MSEClass: #SmalltalkExpressionStatement  super: #FASTStatement>
 	<package: #FAST>

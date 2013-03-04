@@ -1,4 +1,4 @@
 as yet unclassified
 annotation
-	<MSEClass: #StatementNode super: #FAMIXSourcedEntity>
+	<MSEClass: #Statement super: #FAMIXSourcedEntity>
 	<package: #FAST>
