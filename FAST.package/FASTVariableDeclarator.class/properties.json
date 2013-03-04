@@ -1,0 +1,16 @@
+{
+	"category" : "FAST-Java-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"variable",
+		"expression",
+		"declarationStatement" ],
+	"name" : "FASTVariableDeclarator",
+	"pools" : [
+		 ],
+	"super" : "FAMIXSourcedEntity",
+	"type" : "normal" }

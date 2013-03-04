@@ -1,0 +1,16 @@
+{
+	"category" : "FAST-Java-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"condition",
+		"thenBody",
+		"elseBody" ],
+	"name" : "FASTIfStatement",
+	"pools" : [
+		 ],
+	"super" : "FASTStatement",
+	"type" : "normal" }

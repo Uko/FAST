@@ -1,6 +1,6 @@
 as yet unclassified
 statements
-	<MSEProperty: #statements type: #FASTStatement opposite: #parentStatementBlock>
+	<MSEProperty: #statements type: #FASTStatement opposite: #parentStatement>
 	<multivalued>
-	<MSEComment: 'Statements of the behavioural entity'>
+	<MSEComment: 'Statements enclosed in this block'>
 	^ statements

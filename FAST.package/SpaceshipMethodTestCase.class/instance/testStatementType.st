@@ -1,3 +1,3 @@
 tests
 testStatementType
-	self assert: (spaceshipMethod statements first isMemberOf: FASTExpressionStatement)
+	self assert: (spaceshipMethod statements first isMemberOf: FASTSmalltalkExpressionStatement)

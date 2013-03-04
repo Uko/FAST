@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Java-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "FASTContinueStatement",
+	"pools" : [
+		 ],
+	"super" : "FASTStatement",
+	"type" : "normal" }

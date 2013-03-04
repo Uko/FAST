@@ -9,6 +9,6 @@ initializeClassMethodDict
 		add: FASTVariableExpression		-> #addVariableExpression:;
 		add: FASTNamedBehaviouralEntity	-> #addMethod:;
 		add: FASTBlockDefinition			-> #addBlock:;
-		add: FASTExpressionStatement		-> #addStatenent:;
-		add: FASTReturnStatement			-> #addStatement:;
+		add: FASTSmalltalkExpressionStatement		-> #addStatenent:;
+		add: FASTSmalltalkReturnStatement			-> #addStatement:;
 		add: FASTNamedEntity				-> #addNamedEntity:

@@ -1,3 +1,3 @@
 tests
 testStatementType
-	self assert: (sendMessageMethod statements first isMemberOf: FASTExpressionStatement)
+	self assert: (sendMessageMethod statements first isMemberOf: FASTSmalltalkExpressionStatement)

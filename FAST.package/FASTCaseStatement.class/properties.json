@@ -1,13 +1,13 @@
 {
-	"category" : "FAST-Smalltalk-Model",
+	"category" : "FAST-Java-Model",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "YuriyTymchuk 12/8/2012 22:54",
+	"commentStamp" : "<historical>",
 	"instvars" : [
 		"expression" ],
-	"name" : "FASTReturnStatement",
+	"name" : "FASTCaseStatement",
 	"pools" : [
 		 ],
 	"super" : "FASTStatement",

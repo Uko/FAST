@@ -4,8 +4,8 @@ visitStatementNode: aStatement
   
   	| statement expression |
   	(aStatement isMemberOf: RBReturnNode)
- 		ifTrue: [ statement := FASTReturnStatement new ]
- 		ifFalse: [ statement := FASTExpressionStatement new ].
+ 		ifTrue: [ statement := FASTSmalltalkReturnStatement new ]
+ 		ifFalse: [ statement := FASTSmalltalkExpressionStatement new ].
   	expression := self visitNode: aStatement.
 	expression parentStatement: statement.
   	statement expression: expression. 

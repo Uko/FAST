@@ -1,0 +1,15 @@
+{
+	"category" : "FAST-Java-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"condition",
+		"body" ],
+	"name" : "FASTDoStatement",
+	"pools" : [
+		 ],
+	"super" : "FASTStatement",
+	"type" : "normal" }

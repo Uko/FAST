@@ -1,3 +1,3 @@
 tests
 testStatementType
-	self assert: (cascadeMethod statements first isMemberOf: FASTExpressionStatement)
+	self assert: (cascadeMethod statements first isMemberOf: FASTSmalltalkExpressionStatement)

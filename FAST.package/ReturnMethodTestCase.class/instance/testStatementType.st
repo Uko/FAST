@@ -1,3 +1,3 @@
 tests
 testStatementType
-	self assert: (returnMethod statements first isMemberOf: FASTReturnStatement)
+	self assert: (returnMethod statements first isMemberOf: FASTSmalltalkReturnStatement)

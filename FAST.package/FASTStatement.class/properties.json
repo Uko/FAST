@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "YuriyTymchuk 12/8/2012 22:52",
 	"instvars" : [
-		"parentStatementBlock" ],
+		"parentStatement" ],
 	"name" : "FASTStatement",
 	"pools" : [
 		 ],

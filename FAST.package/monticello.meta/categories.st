@@ -14,3 +14,4 @@ SystemOrganization addCategory: #'FAST-Test-Smalltalk-Importer'!
 SystemOrganization addCategory: #'FAST-Model-Extension'!
 SystemOrganization addCategory: #'FAST-Smalltalk-Model-Extension'!
 SystemOrganization addCategory: #'FAST-Smalltalk-Visualization'!
+SystemOrganization addCategory: #'FAST-Java-Model'!

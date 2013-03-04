@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Smalltalk-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 12/8/2012 22:54",
+	"instvars" : [
+		"expression" ],
+	"name" : "FASTSmalltalkReturnStatement",
+	"pools" : [
+		 ],
+	"super" : "FASTStatement",
+	"type" : "normal" }
