@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"newWithModel:" : "YuriyTymchuk 2/15/2013 10:23" },
+		"newWithModel:" : "YuriyTymchuk 2/15/2013 10:23",
+		"newWithModel:fastMethod:invocationsPool:" : "YuriyTymchuk 3/7/2013 13:00" },
 	"instance" : {
 		"acceptArrayNode:" : "YuriyTymchuk 2/16/2013 17:20",
 		"acceptAssignmentNode:" : "YuriyTymchuk 2/22/2013 13:07",
@@ -20,10 +21,10 @@
 		"acceptUndefinedLiteralNode:" : "YuriyTymchuk 2/5/2013 15:23",
 		"acceptVariableNode:" : "YuriyTymchuk 2/22/2013 13:17",
 		"addToModel:" : "YuriyTymchuk 2/15/2013 10:23",
-		"basicClone" : "YuriyTymchuk 2/15/2013 10:23",
-		"cloneWithFastBehaviouralEntity:" : "YuriyTymchuk 2/15/2013 15:21",
+		"cloneWithFastBehaviouralEntity:" : "YuriyTymchuk 3/7/2013 13:02",
 		"createVariable:" : "YuriyTymchuk 2/15/2013 15:51",
-		"initializeWithClass:famixMethod:fastMethod:methodScope:invocationsPool:" : "YuriyTymchuk 2/15/2013 13:50",
 		"initializeWithModel:" : "YuriyTymchuk 2/15/2013 10:23",
-		"runWithSource:and:" : "YuriyTymchuk 2/15/2013 14:58",
+		"initializeWithModel:fastMethod:invocationsPool:" : "YuriyTymchuk 3/7/2013 11:23",
+		"parseTreeForSource:" : "YuriyTymchuk 3/7/2013 11:05",
+		"runWithSource:and:" : "YuriyTymchuk 3/7/2013 11:22",
 		"visitStatementNode:" : "YuriyTymchuk 2/26/2013 15:58" } }

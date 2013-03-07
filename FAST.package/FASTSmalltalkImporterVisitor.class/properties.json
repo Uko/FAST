@@ -12,5 +12,5 @@
 	"name" : "FASTSmalltalkImporterVisitor",
 	"pools" : [
 		 ],
-	"super" : "SmalltalkMethodVisitor",
+	"super" : "RBProgramNodeVisitor",
 	"type" : "normal" }

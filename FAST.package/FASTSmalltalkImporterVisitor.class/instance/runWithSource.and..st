@@ -7,11 +7,8 @@ runWithSource: sourceAsString and: aFamixMethod
 		name: aFamixMethod name;
 		famixBehaviouralEntity: aFamixMethod.
 	aFamixMethod fastNamedBehaviouralEntity: fastMethod.
-	 
-	theClass := aFamixMethod parentType.
-	famixMethod := aFamixMethod. 
-	methodScope := SmalltalkScope.
-	invocationsPool := OrderedCollection withAll: famixMethod outgoingInvocations.
+
+	invocationsPool := OrderedCollection withAll: aFamixMethod outgoingInvocations.
 	
 	parseTree := self parseTreeForSource: sourceAsString. 
-	parseTree ifNotNil: [self acceptMethodNode: parseTree]	"sourceCodeAt:"
+	parseTree ifNotNil: [self acceptMethodNode: parseTree]
