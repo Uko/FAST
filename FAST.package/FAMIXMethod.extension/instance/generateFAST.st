@@ -2,6 +2,8 @@
 generateFAST
 	<menuItem: 'Generate FAST'>
 	self fastNamedBehaviouralEntity ifNil: [
-		| visitor |
-		visitor := FASTSmalltalkImporterVisitor newWithModel: self mooseModel.
+		| visitorClass visitor |
+		self sourceLanguage isSmalltalk ifTrue: [visitorClass := FASTSmalltalkImporterVisitor].
+		self sourceLanguage isJava ifTrue: [visitorClass := FASTJavaImporterVisitor]. 
+		visitor := visitorClass newWithModel: self mooseModel.
 		visitor runWithSource: self sourceText and: self]

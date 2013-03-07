@@ -1,3 +1,8 @@
 as yet unclassified
 acceptBlockNode: aBodyNode
-	self visitNodes: aBodyNode statements
+	|block|
+	block := self addToModel: FASTStatementBlock new.
+	aBodyNode statements do: [:each |
+		block statements add: ((
+			self visitNode: each) parentStatement: block)].
+	^ block

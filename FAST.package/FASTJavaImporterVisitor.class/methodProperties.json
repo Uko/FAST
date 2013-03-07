@@ -2,8 +2,10 @@
 	"class" : {
 		"newWithModel:" : "YuriyTymchuk 3/6/2013 15:11" },
 	"instance" : {
-		"acceptBlockNode:" : "YuriyTymchuk 3/7/2013 10:27",
-		"acceptMethodDeclarationNode:" : "YuriyTymchuk 3/7/2013 10:41",
+		"acceptBlockNode:" : "YuriyTymchuk 3/7/2013 17:59",
+		"acceptMethodDeclarationNode:" : "YuriyTymchuk 3/7/2013 17:55",
+		"acceptReturnStatementNode:" : "YuriyTymchuk 3/7/2013 17:59",
 		"addToModel:" : "YuriyTymchuk 3/6/2013 15:16",
 		"initializeWithModel:" : "YuriyTymchuk 3/6/2013 15:11",
-		"parser" : "YuriyTymchuk 3/7/2013 14:50" } }
+		"parser" : "YuriyTymchuk 3/7/2013 14:50",
+		"runWithSource:and:" : "YuriyTymchuk 3/7/2013 17:24" } }

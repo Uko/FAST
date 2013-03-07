@@ -8,7 +8,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"scopingEntity",
-		"model" ],
+		"model",
+		"fastMethod" ],
 	"name" : "FASTJavaImporterVisitor",
 	"pools" : [
 		 ],
