@@ -1,4 +1,4 @@
-accessing
+as yet unclassified
 parseTreeForSource: methodSourceString
-	^ PPSmalltalkParser parseMethod: methodSourceString
+	^ self parser parseMethod: methodSourceString
 		onError: [:aString :pos | ^nil]

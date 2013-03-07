@@ -2,6 +2,7 @@
 	"category" : "FAST-Smalltalk-Importer",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "TFASTImporterVisitor classTrait",
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
@@ -13,4 +14,5 @@
 	"pools" : [
 		 ],
 	"super" : "RBProgramNodeVisitor",
+	"traitcomposition" : "TFASTImporterVisitor",
 	"type" : "normal" }

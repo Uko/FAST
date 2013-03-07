@@ -25,6 +25,6 @@
 		"createVariable:" : "YuriyTymchuk 2/15/2013 15:51",
 		"initializeWithModel:" : "YuriyTymchuk 2/15/2013 10:23",
 		"initializeWithModel:fastMethod:invocationsPool:" : "YuriyTymchuk 3/7/2013 11:23",
-		"parseTreeForSource:" : "YuriyTymchuk 3/7/2013 11:05",
+		"parser" : "YuriyTymchuk 3/7/2013 13:29",
 		"runWithSource:and:" : "YuriyTymchuk 3/7/2013 11:22",
 		"visitStatementNode:" : "YuriyTymchuk 2/26/2013 15:58" } }

@@ -2,6 +2,7 @@
 	"category" : "FAST-Java-Importer",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "TFASTImporterVisitor classTrait",
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
@@ -12,4 +13,5 @@
 	"pools" : [
 		 ],
 	"super" : "PJASTNodeVisitor",
+	"traitcomposition" : "TFASTImporterVisitor",
 	"type" : "normal" }
