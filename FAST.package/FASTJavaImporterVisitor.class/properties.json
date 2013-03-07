@@ -1,0 +1,15 @@
+{
+	"category" : "FAST-Java-Importer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"scopingEntity",
+		"model" ],
+	"name" : "FASTJavaImporterVisitor",
+	"pools" : [
+		 ],
+	"super" : "PJASTNodeVisitor",
+	"type" : "normal" }

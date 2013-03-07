@@ -9,7 +9,7 @@
 		"fastMethod",
 		"model",
 		"invocationsPool" ],
-	"name" : "FASTMethodVisitor",
+	"name" : "FASTSmalltalkImporterVisitor",
 	"pools" : [
 		 ],
 	"super" : "SmalltalkMethodVisitor",

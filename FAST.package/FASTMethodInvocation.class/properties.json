@@ -1,0 +1,15 @@
+{
+	"category" : "FAST-Java-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"receiver",
+		"arguments" ],
+	"name" : "FASTMethodInvocation",
+	"pools" : [
+		 ],
+	"super" : "FASTExpression",
+	"type" : "normal" }
