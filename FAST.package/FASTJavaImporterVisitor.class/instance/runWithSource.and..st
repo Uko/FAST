@@ -9,4 +9,5 @@ runWithSource: sourceAsString and: aFamixMethod
 	aFamixMethod fastNamedBehaviouralEntity: fastMethod.
 
 	parseTree := self parseTreeForSource: sourceAsString. 
-	parseTree ifNotNil: [self acceptMethodDeclarationNode: parseTree]
+	parseTree ifNotNil: [self acceptMethodDeclarationNode: parseTree].
+	^ fastMethod 

@@ -1,7 +1,6 @@
 accessing
 runWithSource: sourceAsString and: aFamixMethod
 	| parseTree |
-	
 	fastMethod := self addToModel: FASTNamedBehaviouralEntity new.
 	fastMethod
 		name: aFamixMethod name;

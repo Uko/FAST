@@ -1,9 +1,10 @@
 as yet unclassified
 setUp
 	| mooseModel |
-	mooseModel = MockObject new.
-	mooseModel stub addEntity: #entity.
-	importer = FASTJavaImporterVisitor on: mooseModel.
+	mooseModel := MockObject new.
+	mooseModel stub silentlyAdd: (Kind of: MooseEntity).
+	importer := FASTJavaImporterVisitor newWithModel: mooseModel.
 	
-	famixMethod = MockObject new.
-	famixMethod stub fastMethod: #method
+	famixMethod := MockObject new.
+	famixMethod stub fastNamedBehaviouralEntity: (Kind of: FASTNamedBehaviouralEntity).
+	famixMethod stub name willReturn: 'Method''s name'

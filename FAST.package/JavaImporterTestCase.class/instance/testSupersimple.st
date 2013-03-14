@@ -1,5 +1,5 @@
 as yet unclassified
 testSupersimple
-	| fast |
-	fast = importer runWithSource: self supersimpleMethod and: famixMethod.
-	fast should be an instance of: FASTNamedBehaviouralEntity
+	| fastMethod |
+	fastMethod := importer runWithSource: self supersimpleMethod and: famixMethod.
+	fastMethod should be an instance of: FASTNamedBehaviouralEntity

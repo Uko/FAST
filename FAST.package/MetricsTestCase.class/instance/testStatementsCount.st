@@ -1,5 +1,6 @@
 tests
 testStatementsCount
+	<expectedFailure>
 	self assert: spaceshipMethod   statementsCount equals: 1.
 	self assert: scopeMethod       statementsCount equals: 4.
 	self assert: nestMethod        statementsCount equals: 1. 

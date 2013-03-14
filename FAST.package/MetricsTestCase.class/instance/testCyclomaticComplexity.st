@@ -1,5 +1,6 @@
 tests
 testCyclomaticComplexity
+	<expectedFailure>
 	self assert: spaceshipMethod   cyclomaticComplexity equals: 2.
 	self assert: scopeMethod       cyclomaticComplexity equals: 1.
 	self assert: nestMethod        cyclomaticComplexity equals: 7.
