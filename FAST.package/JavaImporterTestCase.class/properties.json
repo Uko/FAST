@@ -1,0 +1,15 @@
+{
+	"category" : "FAST-Test-Java-Importer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"importer",
+		"famixMethod" ],
+	"name" : "JavaImporterTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
