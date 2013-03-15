@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfFAST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfFAST",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
