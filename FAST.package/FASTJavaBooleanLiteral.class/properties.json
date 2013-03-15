@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Java-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"value" ],
+	"name" : "FASTJavaBooleanLiteral",
+	"pools" : [
+		 ],
+	"super" : "FASTLiteral",
+	"type" : "normal" }

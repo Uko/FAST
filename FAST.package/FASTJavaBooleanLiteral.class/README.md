@@ -1,0 +1,1 @@
+Java boolean literal node

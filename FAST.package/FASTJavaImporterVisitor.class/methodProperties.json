@@ -3,8 +3,9 @@
 		"newWithModel:" : "YuriyTymchuk 3/6/2013 15:11" },
 	"instance" : {
 		"acceptBlockNode:" : "YuriyTymchuk 3/7/2013 17:59",
+		"acceptBooleanLiteralNode:" : "YuriyTymchuk 3/15/2013 17:27",
 		"acceptMethodDeclarationNode:" : "YuriyTymchuk 3/13/2013 17:23",
-		"acceptReturnStatementNode:" : "YuriyTymchuk 3/7/2013 17:59",
+		"acceptReturnStatementNode:" : "YuriyTymchuk 3/15/2013 17:27",
 		"initializeWithModel:" : "YuriyTymchuk 3/6/2013 15:11",
 		"model" : "YuriyTymchuk 3/14/2013 14:50",
 		"parser" : "YuriyTymchuk 3/7/2013 14:50",
