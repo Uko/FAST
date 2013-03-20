@@ -1,5 +1,5 @@
 as yet unclassified
-supersimpleMethod
+methodSupersimple
 	^ 'boolean supersimple() {
         return true;
     }'

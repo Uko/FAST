@@ -1,0 +1,14 @@
+{
+	"category" : "FAST-Java-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value" ],
+	"name" : "FASTJavaIntegerLiteral",
+	"pools" : [
+		 ],
+	"super" : "FASTLiteral",
+	"type" : "normal" }

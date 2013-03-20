@@ -1,7 +1,7 @@
 as yet unclassified
 testSupersimple
 	| fastMethod |
-	fastMethod := importer runWithSource: self supersimpleMethod and: famixMethod.
+	fastMethod := importer runWithSource: self methodSupersimple and: famixMethod.
 	fastMethod should be an instance of: FASTNamedBehaviouralEntity.
 	fastMethod statementBlock should be an instance of: FASTStatementBlock.
 	fastMethod statements should be: fastMethod statementBlock statements.
