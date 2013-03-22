@@ -6,9 +6,11 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"value" ],
-	"name" : "FASTJavaIntegerLiteral",
+		"left",
+		"right",
+		"operator" ],
+	"name" : "FASTInfixOperation",
 	"pools" : [
 		 ],
-	"super" : "FASTLiteral",
+	"super" : "FASTExpression",
 	"type" : "normal" }
