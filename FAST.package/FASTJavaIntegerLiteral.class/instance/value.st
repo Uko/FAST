@@ -1,5 +1,5 @@
 as yet unclassified
 value
-	<MSEProperty: #value type: #Integer>
+	<MSEProperty: #value type: #Number>
 	<MSEComment: 'Integer value of the literal'>
 	^ value
