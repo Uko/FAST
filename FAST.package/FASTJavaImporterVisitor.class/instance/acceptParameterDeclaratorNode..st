@@ -1,0 +1,3 @@
+as yet unclassified
+acceptParameterDeclaratorNode: aParameterDeclaratorNode
+	^ self createVariable: aParameterDeclaratorNode identifier
