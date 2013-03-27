@@ -1,0 +1,16 @@
+{
+	"category" : "FAST-Model-Extension",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"block",
+		"seed",
+		"accumulator" ],
+	"name" : "FASTCollectorVisitor",
+	"pools" : [
+		 ],
+	"super" : "FASTAbstractVisitor",
+	"type" : "normal" }

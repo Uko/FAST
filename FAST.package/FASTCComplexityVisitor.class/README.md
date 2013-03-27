@@ -1,1 +1,0 @@
-visitor that traverses fast model and calculates cyclomatic complexity

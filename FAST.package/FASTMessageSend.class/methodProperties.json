@@ -1,12 +1,15 @@
 {
 	"class" : {
-		"annotation" : "YuriyTymchuk 1/29/2013 09:43" },
+		"annotation" : "YuriyTymchuk 1/29/2013 09:43",
+		"branchSelectors" : "YuriyTymchuk 3/27/2013 11:28",
+		"loopSelectors" : "YuriyTymchuk 3/27/2013 11:29" },
 	"instance" : {
 		"acceptVisitor:" : "YuriyTymchuk 2/4/2013 16:14",
 		"arguments" : "YuriyTymchuk 2/16/2013 17:09",
 		"arguments:" : "YuriyTymchuk 1/29/2013 15:49",
 		"concreteReceiver" : "YuriyTymchuk 2/25/2013 16:46",
 		"concreteReceiver:" : "YuriyTymchuk 2/25/2013 16:46",
+		"cycloComplexityDonation" : "YuriyTymchuk 3/27/2013 11:32",
 		"initialize" : "YuriyTymchuk 1/28/2013 16:54",
 		"invocation" : "YuriyTymchuk 2/15/2013 09:39",
 		"invocation:" : "YuriyTymchuk 2/15/2013 09:39",

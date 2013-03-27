@@ -1,0 +1,19 @@
+*FAST-Smalltalk-Model-Extension
+loopSelectors
+	^ #(
+		whileTrue:
+		whileTrue
+		whileFalse
+		whileFalse:
+		timesRepeat:
+		to:do:
+		do:separatedBy:
+		do:
+		collect:
+		select:
+		reject:
+		inject:into:
+		detect:
+		detect:ifNone:
+		anySatisfy:
+		allSatisfy:)
