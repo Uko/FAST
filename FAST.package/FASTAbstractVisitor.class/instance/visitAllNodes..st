@@ -1,3 +1,3 @@
 visiting
 visitAllNodes: nodes 
-	^ nodes collect: [:node | node acceptVisitor: self]
+	^ nodes collect: [:node | self visitNode: node]

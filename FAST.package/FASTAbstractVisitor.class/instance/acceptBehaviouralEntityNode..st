@@ -3,4 +3,4 @@ acceptBehaviouralEntityNode: aBehaviouralEntity
 	self
 		visitAllNodes: aBehaviouralEntity parameters;
 		visitAllNodes: aBehaviouralEntity localVariables;
-		visitAllNodes: aBehaviouralEntity statements
+		visitNode: aBehaviouralEntity statementBlock

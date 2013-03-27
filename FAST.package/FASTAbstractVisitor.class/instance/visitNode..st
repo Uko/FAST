@@ -1,3 +1,3 @@
 visiting
 visitNode: aNode 
-	^ aNode acceptVisitor: self
+	aNode ifNotNil: [^ aNode acceptVisitor: self]

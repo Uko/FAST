@@ -2,8 +2,10 @@
 	"class" : {
 		"annotation" : "YuriyTymchuk 3/4/2013 16:16" },
 	"instance" : {
+		"acceptVisitor:" : "YuriyTymchuk 3/27/2013 16:02",
 		"body" : "YuriyTymchuk 3/1/2013 13:24",
 		"body:" : "YuriyTymchuk 3/1/2013 13:24",
 		"condition" : "YuriyTymchuk 3/1/2013 13:22",
 		"condition:" : "YuriyTymchuk 3/1/2013 13:23",
+		"cycloComplexityDonation" : "YuriyTymchuk 3/27/2013 17:03",
 		"name" : "YuriyTymchuk 3/1/2013 13:21" } }

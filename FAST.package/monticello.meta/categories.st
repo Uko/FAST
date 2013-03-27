@@ -2,6 +2,7 @@ SystemOrganization addCategory: #FAST!
 SystemOrganization addCategory: #'FAST-Importer'!
 SystemOrganization addCategory: #'FAST-Java-Importer'!
 SystemOrganization addCategory: #'FAST-Java-Model'!
+SystemOrganization addCategory: #'FAST-Java-Model-Extension'!
 SystemOrganization addCategory: #'FAST-Model'!
 SystemOrganization addCategory: #'FAST-Model-Extension'!
 SystemOrganization addCategory: #'FAST-Resolution'!
@@ -10,7 +11,7 @@ SystemOrganization addCategory: #'FAST-Smalltalk-Model'!
 SystemOrganization addCategory: #'FAST-Smalltalk-Model-Extension'!
 SystemOrganization addCategory: #'FAST-Smalltalk-Visualization'!
 SystemOrganization addCategory: #'FAST-Test-Java-Importer'!
-SystemOrganization addCategory: #'FAST-Test-Model-Extention'!
 SystemOrganization addCategory: #'FAST-Test-Resolution'!
+SystemOrganization addCategory: #'FAST-Test-Smalltalk-Extention'!
 SystemOrganization addCategory: #'FAST-Test-Smalltalk-Importer'!
 SystemOrganization addCategory: #'FAST-TestResources'!

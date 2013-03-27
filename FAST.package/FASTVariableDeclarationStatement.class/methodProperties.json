@@ -2,6 +2,7 @@
 	"class" : {
 		"annotation" : "YuriyTymchuk 3/4/2013 16:15" },
 	"instance" : {
+		"acceptVisitor:" : "YuriyTymchuk 3/27/2013 16:10",
 		"declarators" : "YuriyTymchuk 3/4/2013 11:03",
 		"declarators:" : "YuriyTymchuk 3/4/2013 10:49",
 		"initialize" : "YuriyTymchuk 3/4/2013 10:47",

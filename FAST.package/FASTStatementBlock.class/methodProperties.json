@@ -2,6 +2,7 @@
 	"class" : {
 		"annotation" : "YuriyTymchuk 3/4/2013 16:10" },
 	"instance" : {
+		"acceptVisitor:" : "YuriyTymchuk 3/27/2013 16:43",
 		"initialize" : "YuriyTymchuk 3/1/2013 14:02",
 		"name" : "YuriyTymchuk 2/21/2013 17:43",
 		"parentBehaviouralEntity" : "YuriyTymchuk 2/21/2013 18:10",

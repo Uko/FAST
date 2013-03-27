@@ -14,4 +14,6 @@ testWhileWhile
 	fastMethod statements third body  should be an instance of: FASTStatementBlock.
 	fastMethod statements third condition  should be an instance of: FASTInfixOperation.
 	fastMethod statements third body statements first  should be an instance of: FASTWhileStatement.
-	fastMethod statements third body statements first body  should be an instance of: FASTJavaExpressionStatement
+	fastMethod statements third body statements first body  should be an instance of: FASTJavaExpressionStatement.
+	
+	fastMethod cyclomaticComplexity should be equal: 4
