@@ -6,6 +6,7 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
+		"scope",
 		"condition",
 		"body" ],
 	"name" : "FASTWhileStatement",
