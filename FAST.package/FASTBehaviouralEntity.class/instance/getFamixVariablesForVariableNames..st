@@ -1,5 +1,5 @@
 *FAST-Resolution
-getFamixVariablesForVariables: aCollection
+getFamixVariablesForVariableNames: aCollection
 	"using aCollection entities get corresponding famix vars from 'free famix variables'"
 	^ aCollection collect: [:fastVariable |	
 			|famixVariablesPool|

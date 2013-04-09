@@ -2,6 +2,7 @@ SystemOrganization addCategory: #FAST!
 SystemOrganization addCategory: #'FAST-Importer'!
 SystemOrganization addCategory: #'FAST-Java-Importer'!
 SystemOrganization addCategory: #'FAST-Java-Model'!
+SystemOrganization addCategory: #'FAST-Java-Model-Extension'!
 SystemOrganization addCategory: #'FAST-Model'!
 SystemOrganization addCategory: #'FAST-Model-Extension'!
 SystemOrganization addCategory: #'FAST-Resolution'!

@@ -1,5 +1,5 @@
 as yet unclassified
-initializeWith: aBlock andSeed: aSeed
+initializeWithSeed: aSeed andBlock: aBlock
 	self initialize.
 	block := aBlock.
 	seed := aSeed.

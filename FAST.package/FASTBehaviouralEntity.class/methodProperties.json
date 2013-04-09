@@ -3,8 +3,8 @@
 		"annotation" : "YuriyTymchuk 1/29/2013 09:42" },
 	"instance" : {
 		"acceptVisitor:" : "YuriyTymchuk 2/4/2013 11:30",
-		"cyclomaticComplexity" : "YuriyTymchuk 3/27/2013 13:31",
-		"getFamixVariablesForVariables:" : "YuriyTymchuk 2/14/2013 00:49",
+		"cyclomaticComplexity" : "YuriyTymchuk 3/31/2013 21:20",
+		"getFamixVariablesForVariableNames:" : "YuriyTymchuk 4/9/2013 15:53",
 		"getFamixVariablesPool" : "YuriyTymchuk 2/14/2013 00:33",
 		"initialize" : "YuriyTymchuk 1/28/2013 11:06",
 		"localVariables" : "YuriyTymchuk 1/28/2013 15:44",
