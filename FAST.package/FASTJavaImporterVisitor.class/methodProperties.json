@@ -7,6 +7,7 @@
 		"acceptBooleanLiteralNode:" : "YuriyTymchuk 3/18/2013 15:24",
 		"acceptExpressionStatementNode:" : "YuriyTymchuk 3/22/2013 16:03",
 		"acceptIdentifierNode:" : "YuriyTymchuk 3/28/2013 11:28",
+		"acceptIfStatementNode:" : "YuriyTymchuk 4/9/2013 17:33",
 		"acceptInfixOperationNode:" : "YuriyTymchuk 3/28/2013 10:54",
 		"acceptIntegerLiteralNode:" : "YuriyTymchuk 3/20/2013 17:34",
 		"acceptLocalVariableDeclarationStatementNode:" : "YuriyTymchuk 3/22/2013 16:03",

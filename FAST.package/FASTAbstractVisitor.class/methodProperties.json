@@ -9,6 +9,7 @@
 		"acceptBlockDefinitionNode:" : "YuriyTymchuk 2/13/2013 17:09",
 		"acceptBlockExpressionNode:" : "YuriyTymchuk 2/5/2013 17:16",
 		"acceptCascadeNode:" : "YuriyTymchuk 2/4/2013 16:12",
+		"acceptIfStatementNode:" : "YuriyTymchuk 4/9/2013 17:39",
 		"acceptInfixOperationNode:" : "YuriyTymchuk 3/27/2013 16:56",
 		"acceptJavaIntegerLiteralNode:" : "YuriyTymchuk 3/27/2013 16:52",
 		"acceptLiteralNode:" : "YuriyTymchuk 3/27/2013 13:36",
